@@ -1,0 +1,41 @@
+{
+  "formatVersion": 1,
+  "lists": [
+    {
+      "id": "helmet_skins",
+      "version": "1.0",
+      "path": "skyblock-lists/helmet_skins.json",
+      "sha256": "285ebd9ec4422115d25d332b37248e162caea60c3e7e4069786f1075fb89f413"
+    },
+    {
+      "id": "pet_skins",
+      "version": "1.0",
+      "path": "skyblock-lists/pet_skins.json",
+      "sha256": "72638593760cac62e7292762d6e68e5d7f83a07d27e27b75a2a3375559b20109"
+    },
+    {
+      "id": "helmets",
+      "version": "1.0",
+      "path": "skyblock-lists/helmets.json",
+      "sha256": "ee3de60b07c280e68a4b0a2d7a08d68fa4f0de7fb268327fbb2f5bf00df2a4b2"
+    },
+    {
+      "id": "pets",
+      "version": "1.0",
+      "path": "skyblock-lists/pets.json",
+      "sha256": "c902b5d5c5acac4d691e56c74091f8edd2c2980f08b1404bcf2a302a26302fac"
+    },
+    {
+      "id": "dyes",
+      "version": "1.0",
+      "path": "skyblock-lists/dyes.json",
+      "sha256": "49648dd64e1b7311813d7b4e1c17cbebe4a9f12d9e316da986dbed4a510f9fb8"
+    },
+    {
+      "id": "minecraft_dyes",
+      "version": "1.0",
+      "path": "skyblock-lists/minecraft_dyes.json",
+      "sha256": "d468304cd2f2e82c7e01acb94bbf9bb0f3839bb832edf9312a36abbde5485948"
+    }
+  ]
+}
