@@ -1,0 +1,156 @@
+{
+  "metadata": {
+    "name": "Minecraft Dyes",
+    "version": "1.0",
+    "lastUpdated": "2026-07-20",
+    "status": "Tracking 16 vanilla dyes",
+    "patchNotes": "Includes all vanilla Minecraft dye colors."
+  },
+  "entries": [
+    {
+      "id": "minecraft_black_dye",
+      "displayName": "Minecraft Black Dye",
+      "color": "#1D1D21",
+      "categories": [
+        "neutral",
+        "static"
+      ]
+    },
+    {
+      "id": "minecraft_blue_dye",
+      "displayName": "Minecraft Blue Dye",
+      "color": "#3C44AA",
+      "categories": [
+        "blue",
+        "static"
+      ]
+    },
+    {
+      "id": "minecraft_brown_dye",
+      "displayName": "Minecraft Brown Dye",
+      "color": "#835432",
+      "categories": [
+        "neutral",
+        "static"
+      ]
+    },
+    {
+      "id": "minecraft_cyan_dye",
+      "displayName": "Minecraft Cyan Dye",
+      "color": "#169C9C",
+      "categories": [
+        "blue",
+        "green",
+        "static"
+      ]
+    },
+    {
+      "id": "minecraft_gray_dye",
+      "displayName": "Minecraft Gray Dye",
+      "color": "#474F52",
+      "categories": [
+        "neutral",
+        "static"
+      ]
+    },
+    {
+      "id": "minecraft_green_dye",
+      "displayName": "Minecraft Green Dye",
+      "color": "#5E7C16",
+      "categories": [
+        "green",
+        "static"
+      ]
+    },
+    {
+      "id": "minecraft_light_blue_dye",
+      "displayName": "Minecraft Light Blue Dye",
+      "color": "#3AB3DA",
+      "categories": [
+        "blue",
+        "static"
+      ]
+    },
+    {
+      "id": "minecraft_light_gray_dye",
+      "displayName": "Minecraft Light Gray Dye",
+      "color": "#9D9D97",
+      "categories": [
+        "neutral",
+        "static"
+      ]
+    },
+    {
+      "id": "minecraft_lime_dye",
+      "displayName": "Minecraft Lime Dye",
+      "color": "#80C71F",
+      "categories": [
+        "green",
+        "static"
+      ]
+    },
+    {
+      "id": "minecraft_magenta_dye",
+      "displayName": "Minecraft Magenta Dye",
+      "color": "#C74EBD",
+      "categories": [
+        "purple",
+        "static"
+      ]
+    },
+    {
+      "id": "minecraft_orange_dye",
+      "displayName": "Minecraft Orange Dye",
+      "color": "#F9801D",
+      "categories": [
+        "yellow",
+        "static"
+      ]
+    },
+    {
+      "id": "minecraft_pink_dye",
+      "displayName": "Minecraft Pink Dye",
+      "color": "#F38BAA",
+      "categories": [
+        "purple",
+        "static"
+      ]
+    },
+    {
+      "id": "minecraft_purple_dye",
+      "displayName": "Minecraft Purple Dye",
+      "color": "#8932B8",
+      "categories": [
+        "purple",
+        "static"
+      ]
+    },
+    {
+      "id": "minecraft_red_dye",
+      "displayName": "Minecraft Red Dye",
+      "color": "#B02E26",
+      "categories": [
+        "red",
+        "static"
+      ]
+    },
+    {
+      "id": "minecraft_white_dye",
+      "displayName": "Minecraft White Dye",
+      "color": "#F9FFFE",
+      "categories": [
+        "neutral",
+        "static"
+      ]
+    },
+    {
+      "id": "minecraft_yellow_dye",
+      "displayName": "Minecraft Yellow Dye",
+      "color": "#FED83D",
+      "categories": [
+        "yellow",
+        "static"
+      ]
+    }
+  ]
+}
