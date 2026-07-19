@@ -1,0 +1,17 @@
+{
+  "formatVersion": 1,
+  "releases": [
+    {
+      "version": "1.1.0",
+      "minecraftVersions": ["26.2"],
+      "state": "draft",
+      "pageUrl": null
+    },
+    {
+      "version": "0.0.0",
+      "minecraftVersions": ["26.1.2"],
+      "state": "draft",
+      "pageUrl": null
+    }
+  ]
+}
