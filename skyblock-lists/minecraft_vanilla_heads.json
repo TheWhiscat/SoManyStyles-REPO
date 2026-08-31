@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "name": "Minecraft Vanilla Heads",
+    "version": "1.0",
+    "lastUpdated": "2026-08-18",
+    "status": "Tracking 8 vanilla heads",
+    "patchNotes": "Includes all vanilla Minecraft heads"
+  },
+  "entries": [
+    {
+      "id": "minecraft_special_heads",
+      "displayName": "Minecraft Special Heads",
+      "tags": [
+        "helmets"
+      ],
+      "variants": [
+        {
+          "id": "creeper_head",
+          "displayName": "Creeper Head",
+          "frames": [
+            "minecraft:creeper_head"
+          ],
+          "fixedFrameTicks": 200
+        },
+        {
+          "id": "dragon_head",
+          "displayName": "Dragon Head",
+          "frames": [
+            "minecraft:dragon_head"
+          ],
+          "fixedFrameTicks": 200
+        },
+        {
+          "id": "piglin_head",
+          "displayName": "Piglin Head",
+          "frames": [
+            "minecraft:piglin_head"
+          ],
+          "fixedFrameTicks": 200
+        },
+        {
+          "id": "player_head",
+          "displayName": "Player Head",
+          "frames": [
+            "minecraft:player_head"
+          ],
+          "fixedFrameTicks": 200
+        },
+        {
+          "id": "skeleton_skull",
+          "displayName": "Skeleton Skull",
+          "frames": [
+            "minecraft:skeleton_skull"
+          ],
+          "fixedFrameTicks": 200
+        },
+        {
+          "id": "turtle_helmet",
+          "displayName": "Turtle Helmet",
+          "frames": [
+            "minecraft:turtle_helmet"
+          ],
+          "fixedFrameTicks": 200
+        },
+        {
+          "id": "wither_skeleton_skull",
+          "displayName": "Wither Skeleton Skull",
+          "frames": [
+            "minecraft:wither_skeleton_skull"
+          ],
+          "fixedFrameTicks": 200
+        },
+        {
+          "id": "zombie_head",
+          "displayName": "Zombie Head",
+          "frames": [
+            "minecraft:zombie_head"
+          ],
+          "fixedFrameTicks": 200
+        }
+      ]
+    }
+  ]
+}
