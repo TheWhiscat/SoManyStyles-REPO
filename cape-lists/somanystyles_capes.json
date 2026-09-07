@@ -3,16 +3,45 @@
     "name": "So Many Styles Capes",
     "version": "1.0",
     "lastUpdated": "2026-09-07",
-    "status": "Tracking 1 cape",
-    "patchNotes": "Introduces Migration as the first built-in cape",
-    "texturesSha256": "51b1e73cb6f71947c7c2c42ae2bc78a939a3b1b04fd1b3e6e556f59c41529fc9"
+    "status": "Tracking 6 capes",
+    "patchNotes": "Adds six official Minecraft capes"
   },
   "entries": [
     {
+      "id": "pan",
+      "displayName": "Pan Cape",
+      "texture": "pan.png",
+      "tags": ["minecraft", "official", "pan"]
+    },
+    {
+      "id": "vanilla",
+      "displayName": "Vanilla Cape",
+      "texture": "vanilla.png",
+      "tags": ["minecraft", "official", "vanilla"]
+    },
+    {
       "id": "migration",
-      "displayName": "Migration",
+      "displayName": "Migrator Cape",
       "texture": "migration.png",
-      "tags": ["migration"]
+      "tags": ["minecraft", "official", "migration"]
+    },
+    {
+      "id": "common",
+      "displayName": "Common Cape",
+      "texture": "common.png",
+      "tags": ["minecraft", "official", "common"]
+    },
+    {
+      "id": "15th_anniversary",
+      "displayName": "15th Anniversary Cape",
+      "texture": "15th_anniversary.png",
+      "tags": ["minecraft", "official", "anniversary"]
+    },
+    {
+      "id": "cherry_blossom",
+      "displayName": "Cherry Blossom Cape",
+      "texture": "cherry_blossom.png",
+      "tags": ["minecraft", "official", "cherry", "blossom"]
     }
   ]
 }
