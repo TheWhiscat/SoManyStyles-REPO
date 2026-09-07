@@ -21,9 +21,9 @@
     },
     {
       "id": "hypixel_skyblock_dyes",
-      "version": "1.0",
-      "path": "skyblock-lists/hypixel_skyblock_dyes.json",
-      "sha256": "1856574f0fb911edac70eb7d51216836ec0caf7ce6cdf08f4da5f236422ad434"
+      "version": "1.1",
+      "path": "dye-lists/hypixel_skyblock_dyes.json",
+      "sha256": "9ba827e9e70ddc574a52ec8e5adfa3e2e3e9f906e409a3e6925c33f2deab0087"
     },
     {
       "id": "minecraft_vanilla_heads",
@@ -33,15 +33,15 @@
     },
     {
       "id": "minecraft_vanilla_dyes",
-      "version": "0.1",
-      "path": "skyblock-lists/minecraft_vanilla_dyes.json",
-      "sha256": "d75275f6ddd777959dafcf70230f2134279c8ba5015b72d9eb354b973c9433eb"
+      "version": "1.1",
+      "path": "dye-lists/minecraft_vanilla_dyes.json",
+      "sha256": "d316d53630b14e28b61c9031bdef8768d66bdd8d5d07c8aa37cacce4d78c781b"
     },
     {
       "id": "somanystyles_capes",
-      "version": "1.0",
+      "version": "1.1",
       "path": "cape-lists/somanystyles_capes.json",
-      "sha256": "a5056079124f14b44757fa2d10c490236e733939abdd2d5d77d6a5c933f3d78f"
+      "sha256": "f3a0a9cc26b435cfc83eaa8d52568f3f1161a86e937e55f27f92d2238b805167"
     }
   ]
 }
