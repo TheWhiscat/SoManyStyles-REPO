@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "name": "So Many Styles Capes",
+    "version": "1.0",
+    "lastUpdated": "2026-09-07",
+    "status": "Tracking 1 cape",
+    "patchNotes": "Introduces Migration as the first built-in cape",
+    "texturesSha256": "51b1e73cb6f71947c7c2c42ae2bc78a939a3b1b04fd1b3e6e556f59c41529fc9"
+  },
+  "entries": [
+    {
+      "id": "migration",
+      "displayName": "Migration",
+      "texture": "migration.png",
+      "tags": ["migration"]
+    }
+  ]
+}
