@@ -37,5 +37,11 @@
       "path": "skyblock-lists/minecraft_vanilla_dyes.json",
       "sha256": "d75275f6ddd777959dafcf70230f2134279c8ba5015b72d9eb354b973c9433eb"
     }
+    {
+      "id": "somanystyles_capes",
+      "version": "1.0",
+      "path": "cape-lists/somanystyles_capes.json",
+      "sha256": "775126164115d28889e854239355c0db8092142dbba87cef5ecf7e07c6f92805"
+    }
   ]
 }
