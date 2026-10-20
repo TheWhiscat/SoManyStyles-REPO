@@ -1,0 +1,598 @@
+{
+  "metadata": {
+    "name": "SoManyStyles Wings",
+    "version": "1.4",
+    "lastUpdated": "2026-10-10",
+    "status": "Test for the Record",
+    "patchNotes": "Adds Glide motion"
+  },
+  "entries": [
+    {
+      "id": "butterfly_elemental_air",
+      "displayName": "Sky Butterfly Wing",
+      "tags": [
+        "SMS",
+        "air",
+        "elemental"
+      ],
+      "texture": "butterfly_elemental_air.png",
+      "motionProfile": "butterfly",
+      "verticalOffset": 1
+    },
+    {
+      "id": "butterfly_elemental_air_2",
+      "displayName": "Sky Butterfly Wing 2",
+      "tags": [
+        "SMS",
+        "air",
+        "elemental"
+      ],
+      "texture": "butterfly_elemental_air_2.png",
+      "motionProfile": "butterfly",
+      "verticalOffset": 0
+    },
+    {
+      "id": "butterfly_elemental_earth",
+      "displayName": "Terra Butterfly Wing",
+      "tags": [
+        "SMS",
+        "earth",
+        "elemental"
+      ],
+      "texture": "butterfly_elemental_earth.png",
+      "motionProfile": "butterfly",
+      "verticalOffset": 1
+    },
+    {
+      "id": "butterfly_elemental_earth_2",
+      "displayName": "Terra Butterfly Wing 2",
+      "tags": [
+        "SMS",
+        "earth",
+        "elemental"
+      ],
+      "texture": "butterfly_elemental_earth_2.png",
+      "motionProfile": "butterfly",
+      "verticalOffset": 0
+    },
+    {
+      "id": "butterfly_elemental_fire",
+      "displayName": "Flame Butterfly Wing",
+      "tags": [
+        "SMS",
+        "fire",
+        "elemental"
+      ],
+      "texture": "butterfly_elemental_fire.png",
+      "motionProfile": "butterfly",
+      "verticalOffset": 0
+    },
+    {
+      "id": "butterfly_elemental_fire_2",
+      "displayName": "Flame Butterfly Wing 2",
+      "tags": [
+        "SMS",
+        "fire",
+        "elemental"
+      ],
+      "texture": "butterfly_elemental_fire_2.png",
+      "motionProfile": "butterfly",
+      "verticalOffset": -2
+    },
+    {
+      "id": "butterfly_elemental_ice",
+      "displayName": "Frost Butterfly Wing",
+      "tags": [
+        "SMS",
+        "ice",
+        "elemental"
+      ],
+      "texture": "butterfly_elemental_ice.png",
+      "motionProfile": "butterfly",
+      "verticalOffset": 0
+    },
+    {
+      "id": "butterfly_elemental_ice_2",
+      "displayName": "Frost Butterfly Wing 2",
+      "tags": [
+        "SMS",
+        "ice",
+        "elemental"
+      ],
+      "texture": "butterfly_elemental_ice_2.png",
+      "motionProfile": "butterfly",
+      "verticalOffset": -2
+    },
+    {
+      "id": "butterfly_elemental_nature",
+      "displayName": "Blossom Butterfly Wing",
+      "tags": [
+        "SMS",
+        "nature",
+        "elemental"
+      ],
+      "texture": "butterfly_elemental_nature.png",
+      "motionProfile": "butterfly",
+      "verticalOffset": 0
+    },
+    {
+      "id": "butterfly_elemental_nature_2",
+      "displayName": "Blossom Butterfly Wing 2",
+      "tags": [
+        "SMS",
+        "nature",
+        "elemental"
+      ],
+      "texture": "butterfly_elemental_nature_2.png",
+      "motionProfile": "butterfly",
+      "verticalOffset": 0
+    },
+    {
+      "id": "butterfly_elemental_thunder",
+      "displayName": "Storm Butterfly Wing",
+      "tags": [
+        "SMS",
+        "thunder",
+        "elemental"
+      ],
+      "texture": "butterfly_elemental_thunder.png",
+      "motionProfile": "butterfly",
+      "verticalOffset": -1
+    },
+    {
+      "id": "butterfly_elemental_thunder_2",
+      "displayName": "Storm Butterfly Wing 2",
+      "tags": [
+        "SMS",
+        "thunder",
+        "elemental"
+      ],
+      "texture": "butterfly_elemental_thunder_2.png",
+      "motionProfile": "butterfly",
+      "verticalOffset": -1
+    },
+    {
+      "id": "butterfly_elemental_water",
+      "displayName": "Ocean Butterfly Wing",
+      "tags": [
+        "SMS",
+        "water",
+        "elemental"
+      ],
+      "texture": "butterfly_elemental_water.png",
+      "motionProfile": "butterfly",
+      "verticalOffset": -1
+    },
+    {
+      "id": "butterfly_elemental_water_2",
+      "displayName": "Ocean Butterfly Wing 2",
+      "tags": [
+        "SMS",
+        "water",
+        "elemental"
+      ],
+      "texture": "butterfly_elemental_water_2.png",
+      "motionProfile": "butterfly",
+      "verticalOffset": -3
+    },
+    {
+      "id": "butterfly_extra_autumn",
+      "displayName": "Autumn Butterfly Wing",
+      "tags": [
+        "SMS"
+      ],
+      "texture": "butterfly_extra_autumn.png",
+      "motionProfile": "butterfly",
+      "verticalOffset": -1
+    },
+    {
+      "id": "butterfly_extra_enchanted_forest",
+      "displayName": "Enchanted Forest Butterfly Wing",
+      "tags": [
+        "SMS"
+      ],
+      "texture": "butterfly_extra_enchanted_forest.png",
+      "motionProfile": "butterfly",
+      "verticalOffset": -1
+    },
+    {
+      "id": "butterfly_extra_galaxy",
+      "displayName": "Galaxy Butterfly Wing",
+      "tags": [
+        "SMS"
+      ],
+      "texture": "butterfly_extra_galaxy.png",
+      "motionProfile": "butterfly",
+      "verticalOffset": -4
+    },
+    {
+      "id": "butterfly_extra_mystic",
+      "displayName": "Mystic Butterfly Wing",
+      "tags": [
+        "SMS"
+      ],
+      "texture": "butterfly_extra_mystic.png",
+      "motionProfile": "butterfly",
+      "verticalOffset": -2
+    },
+    {
+      "id": "butterfly_extra_neon",
+      "displayName": "Neon Butterfly Wing",
+      "tags": [
+        "SMS"
+      ],
+      "texture": "butterfly_extra_neon.png",
+      "motionProfile": "butterfly",
+      "verticalOffset": -2
+    },
+    {
+      "id": "butterfly_extra_rose",
+      "displayName": "Rose Butterfly Wing",
+      "tags": [
+        "SMS"
+      ],
+      "texture": "butterfly_extra_rose.png",
+      "motionProfile": "butterfly",
+      "verticalOffset": -2
+    },
+    {
+      "id": "butterfly_extra_sakura",
+      "displayName": "Sakura Butterfly Wing",
+      "tags": [
+        "SMS"
+      ],
+      "texture": "butterfly_extra_sakura.png",
+      "motionProfile": "butterfly",
+      "verticalOffset": -3
+    },
+    {
+      "id": "butterfly_extra_sunset",
+      "displayName": "Sunset Butterfly Wing",
+      "tags": [
+        "SMS"
+      ],
+      "texture": "butterfly_extra_sunset.png",
+      "motionProfile": "butterfly",
+      "verticalOffset": -1
+    },
+    {
+      "id": "butterfly_extra_tropical",
+      "displayName": "Tropical Butterfly Wing",
+      "tags": [
+        "SMS"
+      ],
+      "texture": "butterfly_extra_tropical.png",
+      "motionProfile": "butterfly",
+      "verticalOffset": -1
+    },
+    {
+      "id": "dragon_extra_abyssal_leviathan",
+      "displayName": "Abyssal Leviathan Dragon Wing",
+      "wingTypeDragon": true,
+      "tags": [
+        "SMS"
+      ],
+      "texture": "dragon_extra_abyssal_leviathan.png",
+      "motionProfile": "dragon",
+      "verticalOffset": -5
+    },
+    {
+      "id": "dragon_extra_abyssal_seraph",
+      "displayName": "Abyssal Seraph Dragon Wing",
+      "wingTypeDragon": true,
+      "tags": [
+        "SMS"
+      ],
+      "texture": "dragon_extra_abyssal_seraph.png",
+      "motionProfile": "dragon",
+      "verticalOffset": -3
+    },
+    {
+      "id": "dragon_extra_autumn",
+      "displayName": "Autumn Dragon Wing",
+      "wingTypeDragon": true,
+      "tags": [
+        "SMS"
+      ],
+      "texture": "dragon_extra_autumn.png",
+      "motionProfile": "dragon",
+      "verticalOffset": -4
+    },
+    {
+      "id": "dragon_extra_celestial_blossom",
+      "displayName": "Celestial Blossom Dragon Wing",
+      "wingTypeDragon": true,
+      "tags": [
+        "SMS"
+      ],
+      "texture": "dragon_extra_celestial_blossom.png",
+      "motionProfile": "dragon",
+      "verticalOffset": -2
+    },
+    {
+      "id": "dragon_extra_ender",
+      "displayName": "Ender Dragon Wing",
+      "wingTypeDragon": true,
+      "tags": [
+        "SMS"
+      ],
+      "texture": "dragon_extra_ender.png",
+      "motionProfile": "dragon",
+      "verticalOffset": -7
+    },
+    {
+      "id": "dragon_extra_fiery_crimson",
+      "displayName": "Fiery Crimson Dragon Wing",
+      "wingTypeDragon": true,
+      "tags": [
+        "SMS"
+      ],
+      "texture": "dragon_extra_fiery_crimson.png",
+      "motionProfile": "dragon",
+      "verticalOffset": -7
+    },
+    {
+      "id": "dragon_extra_frostbite",
+      "displayName": "Frostbite Dragon Wing",
+      "wingTypeDragon": true,
+      "tags": [
+        "SMS"
+      ],
+      "texture": "dragon_extra_frostbite.png",
+      "motionProfile": "dragon",
+      "verticalOffset": -10
+    },
+    {
+      "id": "dragon_extra_golden",
+      "displayName": "Golden Dragon Wing",
+      "wingTypeDragon": true,
+      "tags": [
+        "SMS"
+      ],
+      "texture": "dragon_extra_golden.png",
+      "motionProfile": "dragon",
+      "verticalOffset": -2
+    },
+    {
+      "id": "dragon_extra_leaf",
+      "displayName": "Leaf Dragon Wing",
+      "wingTypeDragon": true,
+      "tags": [
+        "SMS"
+      ],
+      "texture": "dragon_extra_leaf.png",
+      "motionProfile": "dragon",
+      "verticalOffset": -7
+    },
+    {
+      "id": "dragon_extra_molten_fury",
+      "displayName": "Molten Fury Dragon Wing",
+      "wingTypeDragon": true,
+      "tags": [
+        "SMS"
+      ],
+      "texture": "dragon_extra_molten_fury.png",
+      "motionProfile": "dragon",
+      "verticalOffset": -7
+    },
+    {
+      "id": "dragon_extra_prismatic_shard",
+      "displayName": "Prismatic Shard Dragon Wing",
+      "wingTypeDragon": true,
+      "tags": [
+        "SMS"
+      ],
+      "texture": "dragon_extra_prismatic_shard.png",
+      "motionProfile": "dragon",
+      "verticalOffset": -6
+    },
+    {
+      "id": "dragon_extra_runic_crystal",
+      "displayName": "Runic Crystal Dragon Wing",
+      "wingTypeDragon": true,
+      "tags": [
+        "SMS"
+      ],
+      "texture": "dragon_extra_runic_crystal.png",
+      "motionProfile": "dragon",
+      "verticalOffset": -8
+    },
+    {
+      "id": "dragon_extra_sculk",
+      "displayName": "Sculk Dragon Wing",
+      "wingTypeDragon": true,
+      "tags": [
+        "SMS"
+      ],
+      "texture": "dragon_extra_sculk.png",
+      "motionProfile": "dragon",
+      "verticalOffset": -8
+    },
+    {
+      "id": "dragon_extra_starlight",
+      "displayName": "Starlight Dragon Wing",
+      "wingTypeDragon": true,
+      "tags": [
+        "SMS"
+      ],
+      "texture": "dragon_extra_starlight.png",
+      "motionProfile": "dragon",
+      "verticalOffset": -7
+    },
+    {
+      "id": "dragon_extra_toxic",
+      "displayName": "Toxic Dragon Wing",
+      "wingTypeDragon": true,
+      "tags": [
+        "SMS"
+      ],
+      "texture": "dragon_extra_toxic.png",
+      "motionProfile": "dragon",
+      "verticalOffset": -4
+    },
+    {
+      "id": "dragon_extra_wither",
+      "displayName": "Wither Dragon Wing",
+      "wingTypeDragon": true,
+      "tags": [
+        "SMS"
+      ],
+      "texture": "dragon_extra_wither.png",
+      "motionProfile": "dragon",
+      "verticalOffset": -3
+    },
+    {
+      "id": "dragon_family_holy",
+      "displayName": "Holy Dragon Wing",
+      "wingTypeDragon": true,
+      "tags": [
+        "SMS"
+      ],
+      "texture": "dragon_family_holy.png",
+      "motionProfile": "dragon",
+      "verticalOffset": -7
+    },
+    {
+      "id": "dragon_family_old",
+      "displayName": "Old Dragon Wing",
+      "wingTypeDragon": true,
+      "tags": [
+        "SMS"
+      ],
+      "texture": "dragon_family_old.png",
+      "motionProfile": "dragon",
+      "verticalOffset": -8
+    },
+    {
+      "id": "dragon_family_primal",
+      "displayName": "Primal Dragon Wing",
+      "wingTypeDragon": true,
+      "tags": [
+        "SMS"
+      ],
+      "texture": "dragon_family_primal.png",
+      "motionProfile": "dragon",
+      "verticalOffset": -8
+    },
+    {
+      "id": "dragon_family_protector",
+      "displayName": "Protector Dragon Wing",
+      "wingTypeDragon": true,
+      "tags": [
+        "SMS"
+      ],
+      "texture": "dragon_family_protector.png",
+      "motionProfile": "dragon",
+      "verticalOffset": -5
+    },
+    {
+      "id": "dragon_family_strong",
+      "displayName": "Strong Dragon Wing",
+      "wingTypeDragon": true,
+      "tags": [
+        "SMS"
+      ],
+      "texture": "dragon_family_strong.png",
+      "motionProfile": "dragon",
+      "verticalOffset": -4
+    },
+    {
+      "id": "dragon_family_superior",
+      "displayName": "Superior Dragon Wing",
+      "wingTypeDragon": true,
+      "tags": [
+        "SMS"
+      ],
+      "texture": "dragon_family_superior.png",
+      "motionProfile": "dragon",
+      "verticalOffset": -6
+    },
+    {
+      "id": "dragon_family_unstable",
+      "displayName": "Unstable Dragon Wing",
+      "wingTypeDragon": true,
+      "tags": [
+        "SMS"
+      ],
+      "texture": "dragon_family_unstable.png",
+      "motionProfile": "dragon",
+      "verticalOffset": -5
+    },
+    {
+      "id": "dragon_family_wise",
+      "displayName": "Wise Dragon Wing",
+      "wingTypeDragon": true,
+      "tags": [
+        "SMS"
+      ],
+      "texture": "dragon_family_wise.png",
+      "motionProfile": "dragon",
+      "verticalOffset": -6
+    },
+    {
+      "id": "dragon_family_young",
+      "displayName": "Young Dragon Wing",
+      "wingTypeDragon": true,
+      "tags": [
+        "SMS"
+      ],
+      "texture": "dragon_family_young.png",
+      "motionProfile": "dragon",
+      "verticalOffset": -6
+    },
+    {
+      "id": "dragon_special_angelic",
+      "displayName": "Angelic Dragon Wing",
+      "wingTypeDragon": true,
+      "tags": [
+        "SMS"
+      ],
+      "texture": "dragon_special_angelic.png",
+      "motionProfile": "dragon",
+      "verticalOffset": -9
+    },
+    {
+      "id": "dragon_special_demonic",
+      "displayName": "Demonic Dragon Wing",
+      "wingTypeDragon": true,
+      "tags": [
+        "SMS"
+      ],
+      "texture": "dragon_special_demonic.png",
+      "motionProfile": "dragon",
+      "verticalOffset": -4
+    },
+    {
+      "id": "dragon_special_phoenix",
+      "displayName": "Phoenix Dragon Wing",
+      "wingTypeDragon": true,
+      "tags": [
+        "SMS"
+      ],
+      "texture": "dragon_special_phoenix.png",
+      "motionProfile": "dragon",
+      "verticalOffset": -8
+    },
+    {
+      "id": "dragon_extra_halloween",
+      "displayName": "Halloween Dragon Wing",
+      "wingTypeDragon": true,
+      "tags": [
+        "SMS"
+      ],
+      "texture": "dragon_extra_halloween.png",
+      "motionProfile": "dragon",
+      "verticalOffset": -4
+    },
+    {
+      "id": "butterfly_extra_halloween",
+      "displayName": "Halloween Butterfly Wing",
+      "tags": [
+        "SMS"
+      ],
+      "texture": "butterfly_extra_halloween.png",
+      "motionProfile": "butterfly",
+      "verticalOffset": -3
+    }
+  ]
+}

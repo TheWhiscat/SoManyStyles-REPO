@@ -2,6 +2,9 @@
   "schema": 1,
   "list_sha256": "432c7233b62924c57660fb59ee5d696d7eae9cb3480101f1d1428b70e3c0a2bb",
   "assets": [
-    {"id": "badge", "sha256": "f97ca79c6e944d3627e8e83e0c19080584315a509aa8ed1a6b5bc41da2c1a62b"}
+    {
+      "id": "badge",
+      "sha256": "978aaf690d7a944185f7e86659ebf6bc796c7e44f7d823fa2406eea52dbd7c32"
+    }
   ]
 }

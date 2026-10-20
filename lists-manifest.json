@@ -2,46 +2,16 @@
   "formatVersion": 2,
   "lists": [
     {
-      "id": "hypixel_skyblock_helmet_skins",
-      "version": "1.1",
-      "path": "skin-lists/hypixel_skyblock_helmet_skins.json",
-      "sha256": "f15d5ce60ad21581c7d325eb93103318e7b33b149a2e4070c7f198380aa9d1f8"
-    },
-    {
-      "id": "hypixel_skyblock_pet_skins",
-      "version": "1.1",
-      "path": "skin-lists/hypixel_skyblock_pet_skins.json",
-      "sha256": "e0232da59a3a307afa8670d62dd54c70ca18db57f5dcbd07b0bd27d7a056165e"
-    },
-    {
-      "id": "hypixel_skyblock_miscellaneous",
-      "version": "1.1",
-      "path": "skin-lists/hypixel_skyblock_miscellaneous.json",
-      "sha256": "14d90525e568eedac636e5a7d44863141935692b84c857255b94329f48251023"
-    },
-    {
-      "id": "hypixel_skyblock_dyes",
-      "version": "1.1",
-      "path": "dye-lists/hypixel_skyblock_dyes.json",
-      "sha256": "9ba827e9e70ddc574a52ec8e5adfa3e2e3e9f906e409a3e6925c33f2deab0087"
-    },
-    {
-      "id": "minecraft_vanilla_heads",
-      "version": "1.1",
-      "path": "skin-lists/minecraft_vanilla_heads.json",
-      "sha256": "7ca9ff53ab5ee94c4195f2091ce1a318a9b702b1b0966245883b2a2ac3529acf"
-    },
-    {
-      "id": "minecraft_vanilla_dyes",
-      "version": "1.1",
-      "path": "dye-lists/minecraft_vanilla_dyes.json",
-      "sha256": "d316d53630b14e28b61c9031bdef8768d66bdd8d5d07c8aa37cacce4d78c781b"
-    },
-    {
       "id": "somanystyles_capes",
       "version": "1.1",
       "path": "cape-lists/somanystyles_capes.json",
-      "sha256": "f3a0a9cc26b435cfc83eaa8d52568f3f1161a86e937e55f27f92d2238b805167"
+      "sha256": "635c35799033118bfa9f50272de8bcfa4de39e98dd77eb27530209c2a6a78936"
+    },
+    {
+      "id": "somanystyles_wings",
+      "version": "1.4",
+      "path": "wing-lists/somanystyles_wings.json",
+      "sha256": "babcb4022118ab43bc907579e65ff682bc40fb1fb04456df30610110068da11f"
     }
   ]
 }
