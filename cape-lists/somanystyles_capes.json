@@ -1,47 +1,507 @@
 {
   "metadata": {
-    "name": "So Many Styles Capes",
+    "name": "SoManyStyles Capes",
     "version": "1.1",
-    "lastUpdated": "2026-09-07",
-    "status": "Tracking 6 capes",
-    "patchNotes": "Adds six official Minecraft capes"
+    "lastUpdated": "2026-09-22",
+    "status": "Tracking 56 custom capes",
+    "patchNotes": "Adds the SoManyStyles cape list"
   },
   "entries": [
     {
-      "id": "pan",
-      "displayName": "Pan Cape",
-      "texture": "pan.png",
-      "tags": ["minecraft", "official", "pan"]
+      "id": "aurora",
+      "displayName": "Aurora Cape",
+      "texture": "aurora.png",
+      "tags": [
+        "official"
+      ]
     },
     {
-      "id": "vanilla",
-      "displayName": "Vanilla Cape",
-      "texture": "vanilla.png",
-      "tags": ["minecraft", "official", "vanilla"]
+      "id": "autumn_maple",
+      "displayName": "Autumn Maple Cape",
+      "texture": "autumn_maple.png",
+      "tags": [
+        "official"
+      ]
     },
     {
-      "id": "migration",
-      "displayName": "Migrator Cape",
-      "texture": "migration.png",
-      "tags": ["minecraft", "official", "migration"]
+      "id": "axolotl",
+      "displayName": "Axolotl Cape",
+      "texture": "axolotl.png",
+      "tags": [
+        "official"
+      ]
     },
     {
-      "id": "common",
-      "displayName": "Common Cape",
-      "texture": "common.png",
-      "tags": ["minecraft", "official", "common"]
+      "id": "beach_sunset",
+      "displayName": "Beach Sunset Cape",
+      "texture": "beach_sunset.png",
+      "tags": [
+        "official"
+      ]
     },
     {
-      "id": "15th_anniversary",
-      "displayName": "15th Anniversary Cape",
-      "texture": "15th_anniversary.png",
-      "tags": ["minecraft", "official", "anniversary"]
+      "id": "block_of_diamond",
+      "displayName": "Block Of Diamond Cape",
+      "texture": "block_of_diamond.png",
+      "tags": [
+        "official"
+      ]
     },
     {
-      "id": "cherry_blossom",
-      "displayName": "Cherry Blossom Cape",
-      "texture": "cherry_blossom.png",
-      "tags": ["minecraft", "official", "cherry", "blossom"]
+      "id": "block_of_emerald",
+      "displayName": "Block Of Emerald Cape",
+      "texture": "block_of_emerald.png",
+      "tags": [
+        "official"
+      ]
+    },
+    {
+      "id": "block_of_gold",
+      "displayName": "Block Of Gold Cape",
+      "texture": "block_of_gold.png",
+      "tags": [
+        "official"
+      ]
+    },
+    {
+      "id": "block_of_netherite",
+      "displayName": "Block Of Netherite Cape",
+      "texture": "block_of_netherite.png",
+      "tags": [
+        "official"
+      ]
+    },
+    {
+      "id": "bloodmark",
+      "displayName": "Bloodmark Cape",
+      "texture": "bloodmark.png",
+      "tags": [
+        "official"
+      ]
+    },
+    {
+      "id": "cake",
+      "displayName": "Cake Cape",
+      "texture": "cake.png",
+      "tags": [
+        "official"
+      ]
+    },
+    {
+      "id": "celestial_guard",
+      "displayName": "Celestial Guard Cape",
+      "texture": "celestial_guard.png",
+      "tags": [
+        "official"
+      ]
+    },
+    {
+      "id": "cookie",
+      "displayName": "Cookie Cape",
+      "texture": "cookie.png",
+      "tags": [
+        "official"
+      ]
+    },
+    {
+      "id": "coral_reef",
+      "displayName": "Coral Reef Cape",
+      "texture": "coral_reef.png",
+      "tags": [
+        "official"
+      ]
+    },
+    {
+      "id": "cosmos",
+      "displayName": "Cosmos Cape",
+      "texture": "cosmos.png",
+      "tags": [
+        "official"
+      ]
+    },
+    {
+      "id": "creaking",
+      "displayName": "Creaking Cape",
+      "texture": "creaking.png",
+      "tags": [
+        "official"
+      ]
+    },
+    {
+      "id": "crimson",
+      "displayName": "Crimson Cape",
+      "texture": "crimson.png",
+      "tags": [
+        "official"
+      ]
+    },
+    {
+      "id": "desert_dusk",
+      "displayName": "Desert Dusk Cape",
+      "texture": "desert_dusk.png",
+      "tags": [
+        "official"
+      ]
+    },
+    {
+      "id": "discord",
+      "displayName": "Discord Cape",
+      "texture": "discord.png",
+      "tags": [
+        "official"
+      ]
+    },
+    {
+      "id": "duck",
+      "displayName": "Duck Cape",
+      "texture": "duck.png",
+      "tags": [
+        "official"
+      ]
+    },
+    {
+      "id": "elemental_earth",
+      "displayName": "Elemental Earth Cape",
+      "texture": "elemental_earth.png",
+      "tags": [
+        "official"
+      ]
+    },
+    {
+      "id": "elemental_fire",
+      "displayName": "Elemental Fire Cape",
+      "texture": "elemental_fire.png",
+      "tags": [
+        "official"
+      ]
+    },
+    {
+      "id": "elemental_water",
+      "displayName": "Elemental Water Cape",
+      "texture": "elemental_water.png",
+      "tags": [
+        "official"
+      ]
+    },
+    {
+      "id": "elemental_wind",
+      "displayName": "Elemental Wind Cape",
+      "texture": "elemental_wind.png",
+      "tags": [
+        "official"
+      ]
+    },
+    {
+      "id": "ember_volcano",
+      "displayName": "Ember Volcano Cape",
+      "texture": "ember_volcano.png",
+      "tags": [
+        "official"
+      ]
+    },
+    {
+      "id": "frostfire",
+      "displayName": "Frostfire Cape",
+      "texture": "frostfire.png",
+      "tags": [
+        "official"
+      ]
+    },
+    {
+      "id": "gilded",
+      "displayName": "Gilded Cape",
+      "texture": "gilded.png",
+      "tags": [
+        "official"
+      ]
+    },
+    {
+      "id": "glass",
+      "displayName": "Glass Cape",
+      "texture": "glass.png",
+      "tags": [
+        "official"
+      ]
+    },
+    {
+      "id": "glow_shroom",
+      "displayName": "Glow Shroom Cape",
+      "texture": "glow_shroom.png",
+      "tags": [
+        "official"
+      ]
+    },
+    {
+      "id": "hardcore",
+      "displayName": "Hardcore Cape",
+      "texture": "hardcore.png",
+      "tags": [
+        "official"
+      ]
+    },
+    {
+      "id": "jellyfish",
+      "displayName": "Jellyfish Cape",
+      "texture": "jellyfish.png",
+      "tags": [
+        "official"
+      ]
+    },
+    {
+      "id": "lighthouse",
+      "displayName": "Lighthouse Cape",
+      "texture": "lighthouse.png",
+      "tags": [
+        "official"
+      ]
+    },
+    {
+      "id": "milky_way",
+      "displayName": "Milky Way Cape",
+      "texture": "milky_way.png",
+      "tags": [
+        "official"
+      ]
+    },
+    {
+      "id": "mossy",
+      "displayName": "Mossy Cape",
+      "texture": "mossy.png",
+      "tags": [
+        "official"
+      ]
+    },
+    {
+      "id": "mossy_veil",
+      "displayName": "Mossy Veil Cape",
+      "texture": "mossy_veil.png",
+      "tags": [
+        "official"
+      ]
+    },
+    {
+      "id": "nautilus",
+      "displayName": "Nautilus Cape",
+      "texture": "nautilus.png",
+      "tags": [
+        "official"
+      ]
+    },
+    {
+      "id": "neon_creeper",
+      "displayName": "Neon Creeper Cape",
+      "texture": "neon_creeper.png",
+      "tags": [
+        "official"
+      ]
+    },
+    {
+      "id": "northern_lights",
+      "displayName": "Northern Lights Cape",
+      "texture": "northern_lights.png",
+      "tags": [
+        "official"
+      ]
+    },
+    {
+      "id": "ocean_wave",
+      "displayName": "Ocean Wave Cape",
+      "texture": "ocean_wave.png",
+      "tags": [
+        "official"
+      ]
+    },
+    {
+      "id": "oculus",
+      "displayName": "Oculus Cape",
+      "texture": "oculus.png",
+      "tags": [
+        "official"
+      ]
+    },
+    {
+      "id": "optifine",
+      "displayName": "Optifine Cape",
+      "texture": "optifine.png",
+      "tags": [
+        "official"
+      ]
+    },
+    {
+      "id": "phantom_wings",
+      "displayName": "Phantom Wings Cape",
+      "texture": "phantom_wings.png",
+      "tags": [
+        "official"
+      ]
+    },
+    {
+      "id": "rose",
+      "displayName": "Rose Cape",
+      "texture": "rose.png",
+      "tags": [
+        "official"
+      ]
+    },
+    {
+      "id": "royal_arcane",
+      "displayName": "Royal Arcane Cape",
+      "texture": "royal_arcane.png",
+      "tags": [
+        "official"
+      ]
+    },
+    {
+      "id": "sculkbound",
+      "displayName": "Sculkbound Cape",
+      "texture": "sculkbound.png",
+      "tags": [
+        "official"
+      ]
+    },
+    {
+      "id": "serenity",
+      "displayName": "Serenity Cape",
+      "texture": "serenity.png",
+      "tags": [
+        "official"
+      ]
+    },
+    {
+      "id": "sky",
+      "displayName": "Sky Cape",
+      "texture": "sky.png",
+      "tags": [
+        "official"
+      ]
+    },
+    {
+      "id": "sniffer",
+      "displayName": "Sniffer Cape",
+      "texture": "sniffer.png",
+      "tags": [
+        "official"
+      ]
+    },
+    {
+      "id": "snowy_peak",
+      "displayName": "Snowy Peak Cape",
+      "texture": "snowy_peak.png",
+      "tags": [
+        "official"
+      ]
+    },
+    {
+      "id": "soulshard",
+      "displayName": "Soulshard Cape",
+      "texture": "soulshard.png",
+      "tags": [
+        "official"
+      ]
+    },
+    {
+      "id": "sunset",
+      "displayName": "Sunset Cape",
+      "texture": "sunset.png",
+      "tags": [
+        "official"
+      ]
+    },
+    {
+      "id": "torii_gate",
+      "displayName": "Torii Gate Cape",
+      "texture": "torii_gate.png",
+      "tags": [
+        "official"
+      ]
+    },
+    {
+      "id": "trial",
+      "displayName": "Trial Cape",
+      "texture": "trial.png",
+      "tags": [
+        "official"
+      ]
+    },
+    {
+      "id": "voidbound",
+      "displayName": "Voidbound Cape",
+      "texture": "voidbound.png",
+      "tags": [
+        "official"
+      ]
+    },
+    {
+      "id": "wildflower",
+      "displayName": "Wildflower Cape",
+      "texture": "wildflower.png",
+      "tags": [
+        "official"
+      ]
+    },
+    {
+      "id": "wisteria",
+      "displayName": "Wisteria Cape",
+      "texture": "wisteria.png",
+      "tags": [
+        "official"
+      ]
+    },
+    {
+      "id": "wizardry_cosmos",
+      "displayName": "Wizardry Cosmos Cape",
+      "texture": "wizardry_cosmos.png",
+      "tags": [
+        "official"
+      ]
+    },
+    {
+      "id": "sms_tank",
+      "displayName": "Tank Cape",
+      "texture": "sms_tank.png",
+      "tags": [
+        "SMS"
+      ]
+    },
+    {
+      "id": "sms_healer",
+      "displayName": "Healer Cape",
+      "texture": "sms_healer.png",
+      "tags": [
+        "SMS"
+      ]
+    },
+    {
+      "id": "sms_berserk",
+      "displayName": "Berserk Cape",
+      "texture": "sms_berserk.png",
+      "tags": [
+        "SMS"
+      ]
+    },
+    {
+      "id": "sms_mage",
+      "displayName": "Mage Cape",
+      "texture": "sms_mage.png",
+      "tags": [
+        "SMS"
+      ]
+    },
+    {
+      "id": "sms_archer",
+      "displayName": "Archer Cape",
+      "texture": "sms_archer.png",
+      "tags": [
+        "SMS"
+      ]
+    },
+    {
+      "id": "sms_end_portal",
+      "displayName": "End Portal Cape",
+      "texture": "sms_end_portal.png",
+      "tags": [
+        "SMS"
+      ]
     }
   ]
 }
