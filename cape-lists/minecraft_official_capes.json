@@ -1,0 +1,966 @@
+{
+  "metadata": {
+    "name": "Minecraft Official Capes",
+    "version": "1.0",
+    "lastUpdated": "2026-10-12",
+    "status": "Tracking 106 Minecraft Official capes",
+    "patchNotes": "Last added: Halloween Cape"
+  },
+  "entries": [
+    {
+      "id": "15th_anniversary",
+      "displayName": "15th Anniversary Cape",
+      "texture": "15th_anniversary.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "4j_studios",
+      "displayName": "4J Studios Cape",
+      "texture": "4j_studios.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "amethyst",
+      "displayName": "Amethyst Cape",
+      "texture": "amethyst.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "aurora",
+      "displayName": "Aurora Cape",
+      "texture": "aurora.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "awesom",
+      "displayName": "Awesom Caep",
+      "texture": "awesom.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "bacon",
+      "displayName": "Bacon Cape",
+      "texture": "bacon.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "birthday",
+      "displayName": "Birthday Cape",
+      "texture": "birthday.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "birthday_dungeons",
+      "displayName": "Birthday Dungeons Cape",
+      "texture": "birthday_dungeons.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "blonk",
+      "displayName": "Blonk Caep",
+      "texture": "blonk.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "blueprint",
+      "displayName": "Blueprint Cape",
+      "texture": "blueprint.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "builder",
+      "displayName": "Builder Cape",
+      "texture": "builder.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "cheapsh0ts",
+      "displayName": "Cheapsh0t\u0027s Cape",
+      "texture": "cheapsh0ts.png",
+      "tags": [
+        "minecraft",
+        "cheapshots",
+        "official"
+      ]
+    },
+    {
+      "id": "cherry_blossom",
+      "displayName": "Cherry Blossom Cape",
+      "texture": "cherry_blossom.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "chinese_translator",
+      "displayName": "Chinese Translator Cape",
+      "texture": "chinese_translator.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "christmas_2010",
+      "displayName": "Christmas 2010 Cape",
+      "texture": "christmas_2010.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "cloudy_climb",
+      "displayName": "Cloudy Climb Cape",
+      "texture": "cloudy_climb.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "cloudy_climb_trailer",
+      "displayName": "Cloudy Climb Trailer Cape",
+      "texture": "cloudy_climb_trailer.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "cobalt",
+      "displayName": "Cobalt Cape",
+      "texture": "cobalt.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "common",
+      "displayName": "Common Cape",
+      "texture": "common.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "copper",
+      "displayName": "Copper Cape",
+      "texture": "copper.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "corrupted_creeper",
+      "displayName": "Corrupted Creeper Cape",
+      "texture": "corrupted_creeper.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "cow_crusader",
+      "displayName": "Cow Crusader Cape",
+      "texture": "cow_crusader.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "crafter",
+      "displayName": "Crafter Cape",
+      "texture": "crafter.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "db",
+      "displayName": "dB Cape",
+      "texture": "db.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "downpour",
+      "displayName": "Downpour Cape",
+      "texture": "downpour.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "fauna_faire",
+      "displayName": "Fauna Faire Cape",
+      "texture": "fauna_faire.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "followers",
+      "displayName": "Follower\u0027s Cape",
+      "texture": "followers.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "founders",
+      "displayName": "Founder\u0027s Cape",
+      "texture": "founders.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "frog",
+      "displayName": "Frog Cape",
+      "texture": "frog.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "gift_wrap",
+      "displayName": "Gift Wrap Cape",
+      "texture": "gift_wrap.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "glow",
+      "displayName": "Glow Cape",
+      "texture": "glow.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "gourdian",
+      "displayName": "Gourdian Cape",
+      "texture": "gourdian.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "halloween",
+      "displayName": "Halloween Cape",
+      "texture": "halloween.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "hammer",
+      "displayName": "Hammer Cape",
+      "texture": "hammer.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "hero",
+      "displayName": "Hero Cape",
+      "texture": "hero.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "home",
+      "displayName": "Home Cape",
+      "texture": "home.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "iceologer",
+      "displayName": "Iceologer Cape",
+      "texture": "iceologer.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "icu",
+      "displayName": "ICU Cape",
+      "texture": "icu.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "iron_golem",
+      "displayName": "Iron Golem Cape",
+      "texture": "iron_golem.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "luminous_night",
+      "displayName": "Luminous Night Cape",
+      "texture": "luminous_night.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "mc",
+      "displayName": "MC Cape",
+      "texture": "mc.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "mcc_15th_year",
+      "displayName": "MCC 15th Year Cape",
+      "texture": "mcc_15th_year.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "menace",
+      "displayName": "Menace Cape",
+      "texture": "menace.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "microsoft_xbox",
+      "displayName": "Microsoft Xbox Cape",
+      "texture": "microsoft_xbox.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "migrator",
+      "displayName": "Migrator Cape",
+      "texture": "migrator.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "millionth_customer",
+      "displayName": "Millionth Customer Cape",
+      "texture": "millionth_customer.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "minecon_2011",
+      "displayName": "Minecon 2011 Cape",
+      "texture": "minecon_2011.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "minecon_2012",
+      "displayName": "Minecon 2012 Cape",
+      "texture": "minecon_2012.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "minecon_2013",
+      "displayName": "Minecon 2013 Cape",
+      "texture": "minecon_2013.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "minecon_2015",
+      "displayName": "Minecon 2015 Cape",
+      "texture": "minecon_2015.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "minecon_2016",
+      "displayName": "Minecon 2016 Cape",
+      "texture": "minecon_2016.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "minecon_unused_1",
+      "displayName": "Minecon Unused #1 Cape",
+      "texture": "minecon_unused_1.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "minecon_unused_10",
+      "displayName": "Minecon Unused #10 Cape",
+      "texture": "minecon_unused_10.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "minecon_unused_11",
+      "displayName": "Minecon Unused #11 Cape",
+      "texture": "minecon_unused_11.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "minecon_unused_12",
+      "displayName": "Minecon Unused #12 Cape",
+      "texture": "minecon_unused_12.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "minecon_unused_13",
+      "displayName": "Minecon Unused #13 Cape",
+      "texture": "minecon_unused_13.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "minecon_unused_14",
+      "displayName": "Minecon Unused #14 Cape",
+      "texture": "minecon_unused_14.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "minecon_unused_2",
+      "displayName": "Minecon Unused #2 Cape",
+      "texture": "minecon_unused_2.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "minecon_unused_3",
+      "displayName": "Minecon Unused #3 Cape",
+      "texture": "minecon_unused_3.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "minecon_unused_4",
+      "displayName": "Minecon Unused #4 Cape",
+      "texture": "minecon_unused_4.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "minecon_unused_5",
+      "displayName": "Minecon Unused #5 Cape",
+      "texture": "minecon_unused_5.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "minecon_unused_6",
+      "displayName": "Minecon Unused #6 Cape",
+      "texture": "minecon_unused_6.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "minecon_unused_7",
+      "displayName": "Minecon Unused #7 Cape",
+      "texture": "minecon_unused_7.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "minecon_unused_8",
+      "displayName": "Minecon Unused #8 Cape",
+      "texture": "minecon_unused_8.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "minecon_unused_9",
+      "displayName": "Minecon Unused #9 Cape",
+      "texture": "minecon_unused_9.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "minecraft_experience",
+      "displayName": "Minecraft Experience Cape",
+      "texture": "minecraft_experience.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "moderator",
+      "displayName": "Moderator Cape",
+      "texture": "moderator.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "mojang",
+      "displayName": "Mojang Cape",
+      "texture": "mojang.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "mojang_classic",
+      "displayName": "Mojang Classic Cape",
+      "texture": "mojang_classic.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "mojang_office",
+      "displayName": "Mojang Office Cape",
+      "texture": "mojang_office.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "mojang_studios",
+      "displayName": "Mojang Studios Cape",
+      "texture": "mojang_studios.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "moonlight_trail",
+      "displayName": "Moonlight Trail Cape",
+      "texture": "moonlight_trail.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "mystery",
+      "displayName": "Mystery Cape",
+      "texture": "mystery.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "new_year_2011",
+      "displayName": "New Year 2011 Cape",
+      "texture": "new_year_2011.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "no_circle",
+      "displayName": "No Circle Caep",
+      "texture": "no_circle.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "nyan",
+      "displayName": "Nyan Caep",
+      "texture": "nyan.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "ominous",
+      "displayName": "Ominous Cape",
+      "texture": "ominous.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "oxeye",
+      "displayName": "Oxeye Cape",
+      "texture": "oxeye.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "pan",
+      "displayName": "Pan Cape",
+      "texture": "pan.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "phantom",
+      "displayName": "Phantom Cape",
+      "texture": "phantom.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "prism",
+      "displayName": "Prism Cape",
+      "texture": "prism.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "prismarine",
+      "displayName": "Prismarine Cape",
+      "texture": "prismarine.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "progress_pride",
+      "displayName": "Progress Pride Cape",
+      "texture": "progress_pride.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "purple_heart",
+      "displayName": "Purple Heart Cape",
+      "texture": "purple_heart.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "realms_mapmaker",
+      "displayName": "Realms MapMaker Cape",
+      "texture": "realms_mapmaker.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "red_royal",
+      "displayName": "Red Royal Cape",
+      "texture": "red_royal.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "scrolls_champion",
+      "displayName": "Scrolls Champion Cape",
+      "texture": "scrolls_champion.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "sinister",
+      "displayName": "Sinister Cape",
+      "texture": "sinister.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "size_m",
+      "displayName": "Size M Cape",
+      "texture": "size_m.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "slice_slayer",
+      "displayName": "Slice Slayer Cape",
+      "texture": "slice_slayer.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "snail",
+      "displayName": "Snail Cape",
+      "texture": "snail.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "snowman",
+      "displayName": "Snowman Cape",
+      "texture": "snowman.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "soul",
+      "displayName": "Soul Cape",
+      "texture": "soul.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "spade",
+      "displayName": "Spade Cape",
+      "texture": "spade.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "special",
+      "displayName": "Special Cape",
+      "texture": "special.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "squid",
+      "displayName": "Squid Caep",
+      "texture": "squid.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "translator",
+      "displayName": "Translator Cape",
+      "texture": "translator.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "turtle",
+      "displayName": "Turtle Cape",
+      "texture": "turtle.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "turtle_shell",
+      "displayName": "Turtle Shell Cape",
+      "texture": "turtle_shell.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "twisted",
+      "displayName": "Twisted Cape",
+      "texture": "twisted.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "valentine",
+      "displayName": "Valentine Cape",
+      "texture": "valentine.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "vanilla",
+      "displayName": "Vanilla Cape",
+      "texture": "vanilla.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "veterinarian",
+      "displayName": "Veterinarian Caep",
+      "texture": "veterinarian.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "xbox_1st_birthday",
+      "displayName": "Xbox 1st Birthday Cape",
+      "texture": "xbox_1st_birthday.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "yearn",
+      "displayName": "Yearn Cape",
+      "texture": "yearn.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    },
+    {
+      "id": "zombie_horse",
+      "displayName": "Zombie Horse Cape",
+      "texture": "zombie_horse.png",
+      "tags": [
+        "minecraft",
+        "official"
+      ]
+    }
+  ]
+}
