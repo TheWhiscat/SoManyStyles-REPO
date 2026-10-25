@@ -1,30 +1,23 @@
 {
   "metadata": {
     "name": "Hypixel SkyBlock Dyes",
-    "version": "1.1",
-    "lastUpdated": "2026-08-18",
-    "status": "Tracking 70 dyes",
-    "patchNotes": "Last added: Beach & Charcoal Dyes"
+    "version": "1.0",
+    "lastUpdated": "2026-10-06",
+    "status": "Tracking 72 dyes",
+    "patchNotes": "Last added: Sludge Dye"
   },
   "entries": [
     {
       "id": "aquamarine_dye",
       "hypixelId": "DYE_AQUAMARINE",
       "displayName": "Aquamarine Dye",
-      "color": "#7FFFD4",
-      "categories": [
-        "blue",
-        "green"
-      ]
+      "color": "#7FFFD4"
     },
     {
       "id": "archfiend_dye",
       "hypixelId": "DYE_ARCHFIEND",
       "displayName": "Archfiend Dye",
-      "color": "#B80036",
-      "categories": [
-        "red"
-      ]
+      "color": "#B80036"
     },
     {
       "id": "aurora_dye",
@@ -104,11 +97,6 @@
         "#622FC4"
       ],
       "loopType": "FORWARD",
-      "categories": [
-        "blue",
-        "green",
-        "purple"
-      ],
       "fixedFrameTicks": 2
     },
     {
@@ -184,10 +172,6 @@
         "#0283F9"
       ],
       "loopType": "FORWARD",
-      "categories": [
-        "blue",
-        "green"
-      ],
       "frameTicks": [
         12,
         2,
@@ -261,10 +245,7 @@
       "id": "bingo_blue_dye",
       "hypixelId": "DYE_BINGO_BLUE",
       "displayName": "Bingo Blue Dye",
-      "color": "#002FA7",
-      "categories": [
-        "blue"
-      ]
+      "color": "#002FA7"
     },
     {
       "id": "black_ice_dye",
@@ -339,9 +320,6 @@
         "#091221"
       ],
       "loopType": "FORWARD",
-      "categories": [
-        "blue"
-      ],
       "frameTicks": [
         6,
         4,
@@ -415,7 +393,7 @@
       "id": "black_opal_dye",
       "hypixelId": "DYE_BLACK_OPAL",
       "displayName": "Black Opal Dye",
-      "effect": "black_opal_dye_effect",
+      "effect": "special_black_opal_dye_effect",
       "colors": [
         "#310954",
         "#330B58",
@@ -519,72 +497,49 @@
         "#2E084F"
       ],
       "loopType": "FORWARD",
-      "categories": [
-        "blue",
-        "purple"
-      ],
       "fixedFrameTicks": 3
     },
     {
       "id": "bone_dye",
       "hypixelId": "DYE_BONE",
       "displayName": "Bone Dye",
-      "color": "#E3DAC9",
-      "categories": [
-        "neutral"
-      ]
+      "color": "#E3DAC9"
     },
     {
       "id": "brick_red_dye",
       "hypixelId": "DYE_BRICK_RED",
       "displayName": "Brick Red Dye",
-      "color": "#CB4154",
-      "categories": [
-        "red"
-      ]
+      "color": "#CB4154"
     },
     {
       "id": "byzantium_dye",
       "hypixelId": "DYE_BYZANTIUM",
       "displayName": "Byzantium Dye",
-      "color": "#702963",
-      "categories": [
-        "purple"
-      ]
+      "color": "#702963"
     },
     {
       "id": "carmine_dye",
       "hypixelId": "DYE_CARMINE",
       "displayName": "Carmine Dye",
-      "color": "#960018",
-      "categories": [
-        "red"
-      ]
+      "color": "#960018"
     },
     {
       "id": "celadon_dye",
       "hypixelId": "DYE_CELADON",
       "displayName": "Celadon Dye",
-      "color": "#ACE1AF",
-      "categories": [
-        "green"
-      ]
+      "color": "#ACE1AF"
     },
     {
       "id": "celeste_dye",
       "hypixelId": "DYE_CELESTE",
       "displayName": "Celeste Dye",
-      "color": "#B2FFFF",
-      "categories": [
-        "blue",
-        "neutral"
-      ]
+      "color": "#B2FFFF"
     },
     {
       "id": "charcoal_dye",
       "hypixelId": "DYE_CHARCOAL",
       "displayName": "Charcoal Dye",
-      "effect": "charcoal_dye_effect",
+      "effect": "special_charcoal_dye_effect",
       "colors": [
         "#101215",
         "#0F1215",
@@ -647,9 +602,6 @@
         "#0F1215"
       ],
       "loopType": "FORWARD",
-      "categories": [
-        "neutral"
-      ],
       "frameTicks": [
         30,
         5,
@@ -716,46 +668,31 @@
       "id": "chocolate_dye",
       "hypixelId": "DYE_CHOCOLATE",
       "displayName": "Chocolate Dye",
-      "color": "#7B3F00",
-      "categories": [
-        "neutral"
-      ]
+      "color": "#7B3F00"
     },
     {
       "id": "copper_dye",
       "hypixelId": "DYE_COPPER",
       "displayName": "Copper Dye",
-      "color": "#B87333",
-      "categories": [
-        "neutral"
-      ]
+      "color": "#B87333"
     },
     {
       "id": "cyclamen_dye",
       "hypixelId": "DYE_CYCLAMEN",
       "displayName": "Cyclamen Dye",
-      "color": "#F56FA1",
-      "categories": [
-        "purple"
-      ]
+      "color": "#F56FA1"
     },
     {
       "id": "dark_purple_dye",
       "hypixelId": "DYE_DARK_PURPLE",
       "displayName": "Dark Purple Dye",
-      "color": "#301934",
-      "categories": [
-        "purple"
-      ]
+      "color": "#301934"
     },
     {
       "id": "dung_dye",
       "hypixelId": "DYE_DUNG",
       "displayName": "Dung Dye",
-      "color": "#4F2A2A",
-      "categories": [
-        "neutral"
-      ]
+      "color": "#4F2A2A"
     },
     {
       "id": "dusk_dye",
@@ -835,31 +772,19 @@
         "#5CE8FF"
       ],
       "loopType": "FORWARD",
-      "categories": [
-        "purple",
-        "yellow",
-        "green",
-        "blue"
-      ],
       "fixedFrameTicks": 2
     },
     {
       "id": "emerald_dye",
       "hypixelId": "DYE_EMERALD",
       "displayName": "Emerald Dye",
-      "color": "#50C878",
-      "categories": [
-        "green"
-      ]
+      "color": "#50C878"
     },
     {
       "id": "flame_dye",
       "hypixelId": "DYE_FLAME",
       "displayName": "Flame Dye",
-      "color": "#E25822",
-      "categories": [
-        "red"
-      ]
+      "color": "#E25822"
     },
     {
       "id": "forest_dye",
@@ -930,9 +855,6 @@
         "#00CE6E"
       ],
       "loopType": "FORWARD",
-      "categories": [
-        "green"
-      ],
       "frameTicks": [
         2,
         4,
@@ -1002,10 +924,7 @@
       "id": "fossil_dye",
       "hypixelId": "DYE_FOSSIL",
       "displayName": "Fossil Dye",
-      "color": "#866F12",
-      "categories": [
-        "yellow"
-      ]
+      "color": "#866F12"
     },
     {
       "id": "frog_dye",
@@ -1076,9 +995,6 @@
         "#3DAF00"
       ],
       "loopType": "FORWARD",
-      "categories": [
-        "green"
-      ],
       "frameTicks": [
         18,
         2,
@@ -1148,10 +1064,7 @@
       "id": "frostbitten_dye",
       "hypixelId": "DYE_FROSTBITTEN",
       "displayName": "Frostbitten Dye",
-      "color": "#09D8EB",
-      "categories": [
-        "blue"
-      ]
+      "color": "#09D8EB"
     },
     {
       "id": "hellebore_dye",
@@ -1225,9 +1138,6 @@
         "#FE5AC6"
       ],
       "loopType": "FORWARD",
-      "categories": [
-        "purple"
-      ],
       "frameTicks": [
         14,
         2,
@@ -1300,34 +1210,25 @@
       "id": "holly_dye",
       "hypixelId": "DYE_HOLLY",
       "displayName": "Holly Dye",
-      "color": "#3C6746",
-      "categories": [
-        "green"
-      ]
+      "color": "#3C6746"
     },
     {
       "id": "iceberg_dye",
       "hypixelId": "DYE_ICEBERG",
       "displayName": "Iceberg Dye",
-      "color": "#71A6D2",
-      "categories": [
-        "blue"
-      ]
+      "color": "#71A6D2"
     },
     {
       "id": "jade_dye",
       "hypixelId": "DYE_JADE",
       "displayName": "Jade Dye",
-      "color": "#00A86B",
-      "categories": [
-        "green"
-      ]
+      "color": "#00A86B"
     },
     {
       "id": "jerry_dye",
       "hypixelId": "DYE_JERRY",
       "displayName": "Jerry Dye",
-      "effect": "jerry_dye_effect",
+      "effect": "special_jerry_dye_effect",
       "colors": [
         "#5D4742",
         "#5B4542",
@@ -1402,16 +1303,13 @@
         "#5E4843"
       ],
       "loopType": "FORWARD",
-      "categories": [
-        "neutral"
-      ],
       "fixedFrameTicks": 5
     },
     {
       "id": "kingfisher_dye",
       "hypixelId": "DYE_KINGFISHER",
       "displayName": "Kingfisher Dye",
-      "effect": "kingfisher_dye_effect",
+      "effect": "special_kingfisher_dye_effect",
       "colors": [
         "#04293A",
         "#042939",
@@ -1485,10 +1383,6 @@
         "#042A3C"
       ],
       "loopType": "FORWARD",
-      "categories": [
-        "blue",
-        "green"
-      ],
       "frameTicks": [
         10,
         5,
@@ -1626,20 +1520,13 @@
         "#721102"
       ],
       "loopType": "FORWARD",
-      "categories": [
-        "red",
-        "yellow"
-      ],
       "fixedFrameTicks": 2
     },
     {
       "id": "livid_dye",
       "hypixelId": "DYE_LIVID",
       "displayName": "Livid Dye",
-      "color": "#CEB7AA",
-      "categories": [
-        "neutral"
-      ]
+      "color": "#CEB7AA"
     },
     {
       "id": "lucky_dye",
@@ -1706,9 +1593,6 @@
         "#84FC39"
       ],
       "loopType": "FORWARD",
-      "categories": [
-        "green"
-      ],
       "frameTicks": [
         10,
         4,
@@ -1774,10 +1658,7 @@
       "id": "mango_dye",
       "hypixelId": "DYE_MANGO",
       "displayName": "Mango Dye",
-      "color": "#FDBE02",
-      "categories": [
-        "yellow"
-      ]
+      "color": "#FDBE02"
     },
     {
       "id": "marine_dye",
@@ -1856,9 +1737,6 @@
         "#162775"
       ],
       "loopType": "FORWARD",
-      "categories": [
-        "blue"
-      ],
       "frameTicks": [
         4,
         2,
@@ -1936,65 +1814,43 @@
       "id": "matcha_dye",
       "hypixelId": "DYE_MATCHA",
       "displayName": "Matcha Dye",
-      "color": "#74A12E",
-      "categories": [
-        "green"
-      ]
+      "color": "#74A12E"
     },
     {
       "id": "midnight_dye",
       "hypixelId": "DYE_MIDNIGHT",
       "displayName": "Midnight Dye",
-      "color": "#50216C",
-      "categories": [
-        "purple"
-      ]
+      "color": "#50216C"
     },
     {
       "id": "mocha_dye",
       "hypixelId": "DYE_MOCHA",
       "displayName": "Mocha Dye",
-      "color": "#967969",
-      "categories": [
-        "neutral"
-      ]
+      "color": "#967969"
     },
     {
       "id": "mythological_dye",
       "hypixelId": "DYE_MYTHOLOGICAL",
       "displayName": "Mythological Dye",
-      "color": "#6F6F0C",
-      "categories": [
-        "green"
-      ]
+      "color": "#6F6F0C"
     },
     {
       "id": "nadeshiko_dye",
       "hypixelId": "DYE_NADESHIKO",
       "displayName": "Nadeshiko Dye",
-      "color": "#F6ADC6",
-      "categories": [
-        "purple"
-      ]
+      "color": "#F6ADC6"
     },
     {
       "id": "necron_dye",
       "hypixelId": "DYE_NECRON",
       "displayName": "Necron Dye",
-      "color": "#E7413C",
-      "categories": [
-        "red"
-      ]
+      "color": "#E7413C"
     },
     {
       "id": "nyanza_dye",
       "hypixelId": "DYE_NYANZA",
       "displayName": "Nyanza Dye",
-      "color": "#E9FFDB",
-      "categories": [
-        "green",
-        "neutral"
-      ]
+      "color": "#E9FFDB"
     },
     {
       "id": "oasis_dye",
@@ -2074,10 +1930,6 @@
         "#8AFFB9"
       ],
       "loopType": "FORWARD",
-      "categories": [
-        "blue",
-        "green"
-      ],
       "fixedFrameTicks": 2
     },
     {
@@ -2158,9 +2010,6 @@
         "#00D9FF"
       ],
       "loopType": "FORWARD",
-      "categories": [
-        "blue"
-      ],
       "fixedFrameTicks": 2
     },
     {
@@ -2215,47 +2064,31 @@
         "#84C7FF"
       ],
       "loopType": "FORWARD",
-      "categories": [
-        "purple",
-        "green",
-        "blue"
-      ],
       "fixedFrameTicks": 2
     },
     {
       "id": "pearlescent_dye",
       "hypixelId": "DYE_PEARLESCENT",
       "displayName": "Pearlescent Dye",
-      "color": "#115555",
-      "categories": [
-        "blue",
-        "green"
-      ]
+      "color": "#115555"
     },
     {
       "id": "pelt_dye",
       "hypixelId": "DYE_PELT",
       "displayName": "Pelt Dye",
-      "color": "#50414C",
-      "categories": [
-        "neutral"
-      ]
+      "color": "#50414C"
     },
     {
       "id": "periwinkle_dye",
       "hypixelId": "DYE_PERIWINKLE",
       "displayName": "Periwinkle Dye",
-      "color": "#CCCCFF",
-      "categories": [
-        "purple",
-        "neutral"
-      ]
+      "color": "#CCCCFF"
     },
     {
       "id": "portal_dye",
       "hypixelId": "DYE_PORTAL",
       "displayName": "Portal Dye",
-      "effect": "portal_dye_effect",
+      "effect": "special_portal_dye_effect",
       "colors": [
         "#5909C1",
         "#560ABA",
@@ -2333,9 +2166,6 @@
         "#560ABA"
       ],
       "loopType": "FORWARD",
-      "categories": [
-        "purple"
-      ],
       "frameTicks": [
         25,
         10,
@@ -2417,37 +2247,25 @@
       "id": "pure_black_dye",
       "hypixelId": "DYE_PURE_BLACK",
       "displayName": "Pure Black Dye",
-      "color": "#000000",
-      "categories": [
-        "neutral"
-      ]
+      "color": "#000000"
     },
     {
       "id": "pure_blue_dye",
       "hypixelId": "DYE_PURE_BLUE",
       "displayName": "Pure Blue Dye",
-      "color": "#0013FF",
-      "categories": [
-        "blue"
-      ]
+      "color": "#0013FF"
     },
     {
       "id": "pure_white_dye",
       "hypixelId": "DYE_PURE_WHITE",
       "displayName": "Pure White Dye",
-      "color": "#FFFFFF",
-      "categories": [
-        "neutral"
-      ]
+      "color": "#FFFFFF"
     },
     {
       "id": "pure_yellow_dye",
       "hypixelId": "DYE_PURE_YELLOW",
       "displayName": "Pure Yellow Dye",
-      "color": "#FFF700",
-      "categories": [
-        "yellow"
-      ]
+      "color": "#FFF700"
     },
     {
       "id": "red_tulip_dye",
@@ -2526,9 +2344,6 @@
         "#E60000"
       ],
       "loopType": "FORWARD",
-      "categories": [
-        "red"
-      ],
       "frameTicks": [
         4,
         2,
@@ -2671,9 +2486,6 @@
         "#360516"
       ],
       "loopType": "FORWARD",
-      "categories": [
-        "red"
-      ],
       "frameTicks": [
         5,
         2,
@@ -2743,18 +2555,123 @@
       "id": "sangria_dye",
       "hypixelId": "DYE_SANGRIA",
       "displayName": "Sangria Dye",
-      "color": "#D40808",
-      "categories": [
-        "red"
-      ]
+      "color": "#D40808"
     },
     {
       "id": "secret_dye",
       "hypixelId": "DYE_SECRET",
       "displayName": "Secret Dye",
-      "color": "#7D7D7D",
-      "categories": [
-        "neutral"
+      "color": "#7D7D7D"
+    },
+    {
+      "id": "sludge_dye",
+      "hypixelId": "DYE_SLUDGE",
+      "displayName": "Sludge Dye",
+      "effect": "special_sludge_dye_effect",
+      "colors": [
+        "#4DA949",
+        "#4EAA49",
+        "#51AD4B",
+        "#55B14C",
+        "#5AB64E",
+        "#5FBC51",
+        "#64C253",
+        "#69C755",
+        "#6ECB57",
+        "#71CF59",
+        "#73D15A",
+        "#73D159",
+        "#70CF57",
+        "#6CCB53",
+        "#67C74F",
+        "#60C249",
+        "#5ABD44",
+        "#54B83E",
+        "#4DB337",
+        "#48AF32",
+        "#41AA2C",
+        "#3CA727",
+        "#38A422",
+        "#36A321",
+        "#37A324",
+        "#39A429",
+        "#3BA32D",
+        "#3EA331",
+        "#40A436",
+        "#42A43B",
+        "#45A43E",
+        "#48A642",
+        "#4AA745",
+        "#4CA949",
+        "#50AC4C",
+        "#57B14E",
+        "#5DB952",
+        "#64C054",
+        "#6AC757",
+        "#6FCD58",
+        "#72D159",
+        "#70CE59",
+        "#6DCA56",
+        "#69C655",
+        "#64C253",
+        "#60BD51",
+        "#5BB84F",
+        "#57B34D",
+        "#53AF4B",
+        "#4FAB4A"
+      ],
+      "loopType": "FORWARD",
+      "frameTicks": [
+        20,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        50,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        50,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5
       ]
     },
     {
@@ -2829,12 +2746,6 @@
         "#FBFEFF"
       ],
       "loopType": "FORWARD",
-      "categories": [
-        "green",
-        "blue",
-        "purple",
-        "neutral"
-      ],
       "frameTicks": [
         6,
         2,
@@ -2904,10 +2815,91 @@
       ]
     },
     {
+      "id": "spirit_dye",
+      "hypixelId": "DYE_SPIRIT",
+      "displayName": "Spirit Dye",
+      "effect": "special_spirit_dye_effect",
+      "colors": [
+        "#008E9B",
+        "#008392",
+        "#007987",
+        "#006F7E",
+        "#006775",
+        "#005F6D",
+        "#005767",
+        "#00515F",
+        "#004958",
+        "#004451",
+        "#00404D",
+        "#003D49",
+        "#003B46",
+        "#003C47",
+        "#003D49",
+        "#00414F",
+        "#004857",
+        "#005160",
+        "#005867",
+        "#005F6E",
+        "#006874",
+        "#00717C",
+        "#007B85",
+        "#00858D",
+        "#008E94",
+        "#009699",
+        "#009B9D",
+        "#009D9F",
+        "#009B9E",
+        "#009498",
+        "#008C90",
+        "#008088",
+        "#00757E",
+        "#006A74",
+        "#00606D",
+        "#005A67",
+        "#005665",
+        "#015665",
+        "#005969",
+        "#005F6E",
+        "#006776",
+        "#00707E",
+        "#007988",
+        "#008491",
+        "#008F9C",
+        "#0198A5",
+        "#00A1AD",
+        "#00A9B4",
+        "#00AFB9",
+        "#10B5BF",
+        "#1EBDC6",
+        "#2CC8CF",
+        "#39D3DA",
+        "#43DEE4",
+        "#4DEAED",
+        "#56F3F7",
+        "#5AFAFD",
+        "#58FDFF",
+        "#51FEFF",
+        "#49FFFF",
+        "#3BFCFC",
+        "#2BF5F7",
+        "#16EEF1",
+        "#07E5E9",
+        "#00DBE1",
+        "#00CFD6",
+        "#00C3CC",
+        "#01B5C0",
+        "#00AAB6",
+        "#00A2AD",
+        "#0098A5"
+      ],
+      "loopType": "FORWARD",
+      "fixedFrameTicks": 5
+    },
+    {
       "id": "spooky_dye",
       "hypixelId": "DYE_SPOOKY",
       "displayName": "Spooky Dye",
-      "effect": "spooky_dye_effect",
+      "effect": "special_spooky_dye_effect",
       "colors": [
         "#7700E6",
         "#7703E5",
@@ -2978,9 +2970,6 @@
         "#7500E2"
       ],
       "loopType": "FORWARD",
-      "categories": [
-        "purple"
-      ],
       "frameTicks": [
         10,
         5,
@@ -3125,9 +3114,6 @@
         "#FFDD04"
       ],
       "loopType": "FORWARD",
-      "categories": [
-        "yellow"
-      ],
       "frameTicks": [
         6,
         2,
@@ -3275,10 +3261,6 @@
         "#C48DFC"
       ],
       "loopType": "FORWARD",
-      "categories": [
-        "yellow",
-        "purple"
-      ],
       "frameTicks": [
         4,
         2,
@@ -3356,19 +3338,13 @@
       "id": "tentacle_dye",
       "hypixelId": "TENTACLE_DYE",
       "displayName": "Tentacle Dye",
-      "color": "#324D6C",
-      "categories": [
-        "blue"
-      ]
+      "color": "#324D6C"
     },
     {
       "id": "treasure_dye",
       "hypixelId": "DYE_TREASURE",
       "displayName": "Treasure Dye",
-      "color": "#FCD12A",
-      "categories": [
-        "yellow"
-      ]
+      "color": "#FCD12A"
     },
     {
       "id": "warden_dye",
@@ -3409,10 +3385,6 @@
         "#03404F"
       ],
       "loopType": "FORWARD",
-      "categories": [
-        "blue",
-        "green"
-      ],
       "frameTicks": [
         10,
         4,
@@ -3452,15 +3424,11 @@
       "id": "wild_strawberry_dye",
       "hypixelId": "DYE_WILD_STRAWBERRY",
       "displayName": "Wild Strawberry Dye",
-      "color": "#FF43A4",
-      "categories": [
-        "purple"
-      ]
+      "color": "#FF43A4"
     },
     {
       "id": "z1_fairy",
-      "hypixelId": "FAIRY_HELMET",
-      "displayName": "[Armor] Fairy",
+      "displayName": "[Armor] Fairy Gradient",
       "colors": [
         "#660066",
         "#660033",
@@ -3510,11 +3478,7 @@
         "#990099"
       ],
       "loopType": "FORWARD",
-      "categories": [
-        "red",
-        "purple",
-        "reverse_offset"
-      ],
+      "reverseOffset": true,
       "frameTicks": [
         "3",
         "3",
@@ -3566,8 +3530,7 @@
     },
     {
       "id": "z2_crystal",
-      "hypixelId": "CRYSTAL_HELMET",
-      "displayName": "[Armor] Crystal",
+      "displayName": "[Armor] Crystal Gradient",
       "colors": [
         "#1F0030",
         "#1F0030",
@@ -3589,15 +3552,11 @@
         "#FCF3FF"
       ],
       "loopType": "PINGPONG",
-      "categories": [
-        "purple"
-      ],
       "fixedFrameTicks": 5
     },
     {
       "id": "z3_great_spook",
-      "hypixelId": "GREAT_SPOOK_HELMET",
-      "displayName": "[Armor] Great Spook",
+      "displayName": "[Armor] Great Spook Gradient",
       "colors": [
         "#000000",
         "#070008",
@@ -3647,9 +3606,6 @@
         "#070008"
       ],
       "loopType": "FORWARD",
-      "categories": [
-        "purple"
-      ],
       "frameTicks": [
         "3",
         "3",
