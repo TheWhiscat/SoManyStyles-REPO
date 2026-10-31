@@ -1,5 +1,63 @@
 {
   "$schema": "./schema.json",
   "formatVersion": 1,
-  "releases": []
+  "releases": [
+    {
+      "version": "0.0.0-test.2",
+      "date": "2026-10-31",
+      "content": [
+        {
+          "title": "Test patchnotes",
+          "items": [
+            "This is sample content for testing the patchnotes viewer. It does not describe an actual SoManyStyles release.",
+            "Use this entry to check headings, dates, text wrapping and the content scrollbar at different GUI scales."
+          ]
+        },
+        {
+          "title": "Added",
+          "items": [
+            "Example: A Guide screen with a scrollable list of sections and a plain text reading area.",
+            "Example: Guide and Patchnotes buttons at the top of the screen, with a visible highlight for the selected mode.",
+            "Example: A version list that lets you read notes from several releases without leaving the screen."
+          ]
+        },
+        {
+          "title": "Improved",
+          "items": [
+            "Example: Longer descriptions wrap to fit the content panel. Resize the window or change GUI scale to check that the text remains readable and stays inside its panel.",
+            "Example: The section list and the content panel scroll independently. Move the pointer between them to check which panel receives wheel input.",
+            "Example: The selected version and reading position are remembered when switching between Guide and Patchnotes."
+          ]
+        },
+        {
+          "title": "Things to try",
+          "items": [
+            "Scroll all the way to the bottom, then drag the scrollbar thumb back to the top.",
+            "Select the older test version on the left and check that its date and content appear on the right.",
+            "Close and reopen the screen. The loaded feed should remain available from memory for the rest of this Minecraft session.",
+            "After changing the feed on GitHub, restart Minecraft before checking the new content. The viewer intentionally keeps the first result for the entire session."
+          ]
+        },
+        {
+          "title": "End of test entry",
+          "items": [
+            "If you can read this final paragraph, the bottom of the article is reachable. Remove these test entries before publishing real release notes."
+          ]
+        }
+      ]
+    },
+    {
+      "version": "0.0.0-test.1",
+      "date": "2026-10-30",
+      "content": [
+        {
+          "title": "Older test entry",
+          "items": [
+            "This second sample exists to test version selection and newest-date-first ordering. It is not an actual release.",
+            "Its content is deliberately short so you can compare the scrollbar with the longer test entry."
+          ]
+        }
+      ]
+    }
+  ]
 }
