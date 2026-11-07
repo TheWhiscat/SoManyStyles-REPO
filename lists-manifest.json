@@ -21,9 +21,9 @@
     },
     {
       "id": "hypixel_skyblock_dyes",
-      "version": "1.0",
-      "path": "dye-lists/hypixel_skyblock_dyes.json",
-      "sha256": "62092eba5f5b721955793a8366322c6d6916becc738753b070834401861505c9"
+      "version": "1.1.0",
+      "path": "dye-lists/hypixel_skyblock_dyes/1.1.0/hypixel_skyblock_dyes.json",
+      "sha256": "8c4086f39346b11b32a3cbdd47bb81ca54f9d2c78651da08db7ebce5b79f458e"
     },
     {
       "id": "minecraft_vanilla_heads",
