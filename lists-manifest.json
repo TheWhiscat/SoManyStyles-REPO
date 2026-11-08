@@ -39,9 +39,9 @@
     },
     {
       "id": "somanystyles_dyes",
-      "version": "3.0.0",
-      "path": "dye-lists/somanystyles_dyes/3.0.0/somanystyles_dyes.json",
-      "sha256": "e124db2f0fc10e9aaf9db782a3d970ec31215d872663296a760a9edf16e0475f"
+      "version": "3.0.1",
+      "path": "dye-lists/somanystyles_dyes/3.0.1/somanystyles_dyes.json",
+      "sha256": "78bc6c46f24871176a69036559cbe61832801e1345229f9edb3e2cc25b74667c"
     },
     {
       "id": "minecraft_official_capes",
