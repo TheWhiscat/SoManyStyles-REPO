@@ -1,0 +1,91 @@
+{
+  "metadata": {
+    "name": "Minecraft Vanilla Dyes",
+    "version": "2.0.0",
+    "lastUpdated": "2026-11-08",
+    "status": "Contains 16 dyes",
+    "patchNotes": "Includes all vanilla Minecraft dyes"
+  },
+  "entries": [
+    {
+      "id": "minecraft_black_dye",
+      "displayName": "Minecraft Black Dye",
+      "color": "#1D1D21"
+    },
+    {
+      "id": "minecraft_blue_dye",
+      "displayName": "Minecraft Blue Dye",
+      "color": "#3C44AA"
+    },
+    {
+      "id": "minecraft_brown_dye",
+      "displayName": "Minecraft Brown Dye",
+      "color": "#835432"
+    },
+    {
+      "id": "minecraft_cyan_dye",
+      "displayName": "Minecraft Cyan Dye",
+      "color": "#169C9C"
+    },
+    {
+      "id": "minecraft_gray_dye",
+      "displayName": "Minecraft Gray Dye",
+      "color": "#474F52"
+    },
+    {
+      "id": "minecraft_green_dye",
+      "displayName": "Minecraft Green Dye",
+      "color": "#5E7C16"
+    },
+    {
+      "id": "minecraft_light_blue_dye",
+      "displayName": "Minecraft Light Blue Dye",
+      "color": "#3AB3DA"
+    },
+    {
+      "id": "minecraft_light_gray_dye",
+      "displayName": "Minecraft Light Gray Dye",
+      "color": "#9D9D97"
+    },
+    {
+      "id": "minecraft_lime_dye",
+      "displayName": "Minecraft Lime Dye",
+      "color": "#80C71F"
+    },
+    {
+      "id": "minecraft_magenta_dye",
+      "displayName": "Minecraft Magenta Dye",
+      "color": "#C74EBD"
+    },
+    {
+      "id": "minecraft_orange_dye",
+      "displayName": "Minecraft Orange Dye",
+      "color": "#F9801D"
+    },
+    {
+      "id": "minecraft_pink_dye",
+      "displayName": "Minecraft Pink Dye",
+      "color": "#F38BAA"
+    },
+    {
+      "id": "minecraft_purple_dye",
+      "displayName": "Minecraft Purple Dye",
+      "color": "#8932B8"
+    },
+    {
+      "id": "minecraft_red_dye",
+      "displayName": "Minecraft Red Dye",
+      "color": "#B02E26"
+    },
+    {
+      "id": "minecraft_white_dye",
+      "displayName": "Minecraft White Dye",
+      "color": "#F9FFFE"
+    },
+    {
+      "id": "minecraft_yellow_dye",
+      "displayName": "Minecraft Yellow Dye",
+      "color": "#FED83D"
+    }
+  ]
+}
