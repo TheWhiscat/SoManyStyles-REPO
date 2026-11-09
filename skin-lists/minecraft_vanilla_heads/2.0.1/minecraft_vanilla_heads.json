@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "name": "Minecraft Vanilla Heads",
+    "version": "2.0.1",
+    "lastUpdated": "2026-11-08",
+    "status": "Contains 8 heads",
+    "patchNotes": "Includes all vanilla Minecraft heads"
+  },
+  "entries": [
+    {
+      "id": "minecraft_special_heads",
+      "displayName": "Minecraft Special Heads",
+      "tags": [
+        "helmets"
+      ],
+      "separate": true,
+      "variants": [
+        {
+          "id": "creeper_head",
+          "displayName": "Creeper Head",
+          "frames": [
+            "minecraft:creeper_head"
+          ],
+          "fixedFrameTicks": 200
+        },
+        {
+          "id": "dragon_head",
+          "displayName": "Dragon 1 Head",
+          "frames": [
+            "minecraft:dragon_head"
+          ],
+          "fixedFrameTicks": 200
+        },
+        {
+          "id": "piglin_head",
+          "displayName": "Piglin Head",
+          "frames": [
+            "minecraft:piglin_head"
+          ],
+          "fixedFrameTicks": 200
+        },
+        {
+          "id": "player_head",
+          "displayName": "Player Head",
+          "frames": [
+            "minecraft:player_head"
+          ],
+          "fixedFrameTicks": 200
+        },
+        {
+          "id": "skeleton_skull",
+          "displayName": "Skeleton Skull",
+          "frames": [
+            "minecraft:skeleton_skull"
+          ],
+          "fixedFrameTicks": 200
+        },
+        {
+          "id": "turtle_helmet",
+          "displayName": "Turtle Helmet",
+          "frames": [
+            "minecraft:turtle_helmet"
+          ],
+          "fixedFrameTicks": 200
+        },
+        {
+          "id": "wither_skeleton_skull",
+          "displayName": "Wither Skeleton Skull",
+          "frames": [
+            "minecraft:wither_skeleton_skull"
+          ],
+          "fixedFrameTicks": 200
+        },
+        {
+          "id": "zombie_head",
+          "displayName": "Zombie Head",
+          "frames": [
+            "minecraft:zombie_head"
+          ],
+          "fixedFrameTicks": 200
+        }
+      ]
+    }
+  ]
+}

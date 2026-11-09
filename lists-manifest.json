@@ -3,63 +3,63 @@
   "lists": [
     {
       "id": "hypixel_skyblock_helmet_skins",
-      "version": "2.0.0",
-      "path": "skin-lists/hypixel_skyblock_helmet_skins/2.0.0/hypixel_skyblock_helmet_skins.json",
-      "sha256": "1172effb0374ead6f97b04fc05b834649728b00ec7d303ab820b8c75e3556d01"
+      "version": "2.0.1",
+      "path": "skin-lists/hypixel_skyblock_helmet_skins/2.0.1/hypixel_skyblock_helmet_skins.json",
+      "sha256": "5bb8680fd5326bf860f64c5394dc4032d6ffdaf80209ac218c944458f87d65bd"
     },
     {
       "id": "hypixel_skyblock_pet_skins",
-      "version": "2.0.0",
-      "path": "skin-lists/hypixel_skyblock_pet_skins/2.0.0/hypixel_skyblock_pet_skins.json",
-      "sha256": "ed9454693fd97960b893b02f9cb98a47cccaefcb877395d9779ca462a8c9f05d"
+      "version": "2.0.1",
+      "path": "skin-lists/hypixel_skyblock_pet_skins/2.0.1/hypixel_skyblock_pet_skins.json",
+      "sha256": "7ba8b4e0df3f3508785a145fd2f158a16d00eb7687b43ff3a5bdb9a5c2029ed0"
     },
     {
       "id": "hypixel_skyblock_miscellaneous",
-      "version": "2.0.0",
-      "path": "skin-lists/hypixel_skyblock_miscellaneous/2.0.0/hypixel_skyblock_miscellaneous.json",
-      "sha256": "f264b8b95840ddb499704b16824e8a462db74a15b3d846a7a04a0a44ea3e934e"
+      "version": "2.0.1",
+      "path": "skin-lists/hypixel_skyblock_miscellaneous/2.0.1/hypixel_skyblock_miscellaneous.json",
+      "sha256": "fbab5a113e6b0dcf93d1f0485bbf55f0b022cbe0cdf6dc369f5b814b16926a15"
     },
     {
       "id": "hypixel_skyblock_dyes",
-      "version": "2.0.0",
-      "path": "dye-lists/hypixel_skyblock_dyes/2.0.0/hypixel_skyblock_dyes.json",
-      "sha256": "97f7c05c7847ff081269e48d50a9faf80fff9a43552bf547a3e3829b65b1bb70"
+      "version": "2.0.1",
+      "path": "dye-lists/hypixel_skyblock_dyes/2.0.1/hypixel_skyblock_dyes.json",
+      "sha256": "c8a57220c2263bd75db585b6aae69629f48492591b0ec89c59f9983d420679f2"
     },
     {
       "id": "minecraft_vanilla_heads",
-      "version": "2.0.0",
-      "path": "skin-lists/minecraft_vanilla_heads/2.0.0/minecraft_vanilla_heads.json",
-      "sha256": "b344614c18c1cd10fe25db4b9474c12df9658059e2b5c75c728ed5f772ec98cd"
+      "version": "2.0.1",
+      "path": "skin-lists/minecraft_vanilla_heads/2.0.1/minecraft_vanilla_heads.json",
+      "sha256": "4730b737308bb72d42327612fd6ad5856ef34dfe0446b19f2d5bf36d77a7ce14"
     },
     {
       "id": "minecraft_vanilla_dyes",
-      "version": "2.0.0",
-      "path": "dye-lists/minecraft_vanilla_dyes/2.0.0/minecraft_vanilla_dyes.json",
-      "sha256": "d335ce42cf77b4f0aa58c0045be8aeb6b570bcffaf2e19349fcf3ae0f01c69e8"
+      "version": "2.0.1",
+      "path": "dye-lists/minecraft_vanilla_dyes/2.0.1/minecraft_vanilla_dyes.json",
+      "sha256": "bb99e3881e1f96a626c53df5af1c3da9187be0993efa59e8924c29a774d97cb5"
     },
     {
       "id": "somanystyles_dyes",
-      "version": "3.0.2",
-      "path": "dye-lists/somanystyles_dyes/3.0.2/somanystyles_dyes.json",
-      "sha256": "0cfae298897a80fd090907cb32b355918a15c407c4b807dbdeb221d7b1168307"
+      "version": "3.0.3",
+      "path": "dye-lists/somanystyles_dyes/3.0.3/somanystyles_dyes.json",
+      "sha256": "2b9f99a17c650bced36e6ee879456920c1d8d28b9c7662081451f231a48d2c86"
     },
     {
       "id": "minecraft_official_capes",
-      "version": "2.0.0",
-      "path": "cape-lists/minecraft_official_capes/2.0.0/minecraft_official_capes.json",
-      "sha256": "4ed518fea97fccdd8c407173eb5bc8176aa33540f33cc2e0c7fa4b0285d9e0c1"
+      "version": "2.0.1",
+      "path": "cape-lists/minecraft_official_capes/2.0.1/minecraft_official_capes.json",
+      "sha256": "26983d5118c4f796d226bcada67f77f6d812518bf4f15c040a2b2dd88888282b"
     },
     {
       "id": "somanystyles_capes",
-      "version": "2.0.0",
-      "path": "cape-lists/somanystyles_capes/2.0.0/somanystyles_capes.json",
-      "sha256": "f725eb3acb18985518e106c10158200a5251f7d848c9cb792fe167b239631061"
+      "version": "2.0.1",
+      "path": "cape-lists/somanystyles_capes/2.0.1/somanystyles_capes.json",
+      "sha256": "b32fd8c04d930ef9ca4575587a06e086f0ca54492486998a518bf3688802e4bf"
     },
     {
       "id": "somanystyles_wings",
-      "version": "2.0.0",
-      "path": "wing-lists/somanystyles_wings/2.0.0/somanystyles_wings.json",
-      "sha256": "94d88b6af93db2116d5f76d37e57fbc929e24ce3a7d10cc5bce78518fa29be9c"
+      "version": "2.0.1",
+      "path": "wing-lists/somanystyles_wings/2.0.1/somanystyles_wings.json",
+      "sha256": "53af55e6098c0b52eb8ab68c34418803c8643bc5a8a7c7303646823bbb65fbd1"
     }
   ]
 }

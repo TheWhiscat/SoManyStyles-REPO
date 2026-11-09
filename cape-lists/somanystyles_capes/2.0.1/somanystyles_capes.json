@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "name": "SoManyStyles Capes",
+    "version": "2.0.1",
+    "lastUpdated": "2026-11-08",
+    "status": "Contains 56 capes",
+    "patchNotes": "Last added: Tank cape"
+  },
+  "entries": [
+    {
+      "id": "sms_tank",
+      "displayName": "Tank Cape",
+      "texture": "sms_tank.png",
+      "tags": [
+        "SMS"
+      ]
+    },
+    {
+      "id": "sms_healer",
+      "displayName": "Healer 1 Cape",
+      "texture": "sms_healer.png",
+      "tags": [
+        "SMS"
+      ]
+    },
+    {
+      "id": "sms_berserk",
+      "displayName": "Berserk Cape",
+      "texture": "sms_berserk.png",
+      "tags": [
+        "SMS"
+      ]
+    },
+    {
+      "id": "sms_mage",
+      "displayName": "Mage Cape",
+      "texture": "sms_mage.png",
+      "tags": [
+        "SMS"
+      ]
+    },
+    {
+      "id": "sms_archer",
+      "displayName": "Archer Cape",
+      "texture": "sms_archer.png",
+      "tags": [
+        "SMS"
+      ]
+    },
+    {
+      "id": "sms_end_portal",
+      "displayName": "End Portal Cape",
+      "texture": "sms_end_portal.png",
+      "tags": [
+        "SMS"
+      ]
+    }
+  ]
+}

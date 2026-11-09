@@ -1,7 +1,7 @@
 {
   "metadata": {
     "name": "SoManyStyles Dyes",
-    "version": "3.0.1",
+    "version": "3.0.3",
     "lastUpdated": "2026-11-08",
     "status": "Contains 5 dyes",
     "patchNotes": "Last added: Candle Light dye"
@@ -365,7 +365,7 @@
     },
     {
       "id": "snowy",
-      "displayName": "Snowy Dye",
+      "displayName": "Snowy 1 Dye",
       "effect": "sms_special_snow_dye_effect",
       "colors": [
         "#F2F8FF",
@@ -468,14 +468,6 @@
         14
       ],
       "loopType": "FORWARD",
-      "tags": [
-        "SMS"
-      ]
-    },
-    {
-      "id": "snowy2",
-      "displayName": "Snowy 2 Dye",
-      "color": "#FFFFFF",
       "tags": [
         "SMS"
       ]
