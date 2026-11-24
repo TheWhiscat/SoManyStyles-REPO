@@ -1,7 +1,7 @@
 {
   "metadata": {
     "name": "Hypixel SkyBlock Helmet Skins",
-    "version": "2.0.0",
+    "version": "2.0.2",
     "lastUpdated": "2026-11-08",
     "status": "Contains 86 skins with 1116 variants",
     "patchNotes": "Last added: Spectre Wither Goggles skin"
@@ -18127,6 +18127,7 @@
         "shadow_goggles",
         "wither_goggles"
       ],
+      "separate": true,
       "variants": [
         {
           "id": "eclipsed",

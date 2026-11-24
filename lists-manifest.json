@@ -3,9 +3,9 @@
   "lists": [
     {
       "id": "hypixel_skyblock_helmet_skins",
-      "version": "2.0.1",
-      "path": "skin-lists/hypixel_skyblock_helmet_skins/2.0.1/hypixel_skyblock_helmet_skins.json",
-      "sha256": "5bb8680fd5326bf860f64c5394dc4032d6ffdaf80209ac218c944458f87d65bd"
+      "version": "2.0.2",
+      "path": "skin-lists/hypixel_skyblock_helmet_skins/2.0.2/hypixel_skyblock_helmet_skins.json",
+      "sha256": "b8c45460fc766c6ad16dd5bbeeba414ae8ccd72b6f1694568bc8c503d4c98afc"
     },
     {
       "id": "hypixel_skyblock_pet_skins",
