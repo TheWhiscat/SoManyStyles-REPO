@@ -1,7 +1,7 @@
 {
   "metadata": {
     "name": "Hypixel SkyBlock Pet Skins",
-    "version": "2.0.0",
+    "version": "3.0.0",
     "lastUpdated": "2026-11-08",
     "status": "Contains 182 skins with 1140 variants",
     "patchNotes": "Last added: Fallen King Skeleton Pet skin"
@@ -5053,6 +5053,31 @@
             3,
             3
           ]
+        }
+      ]
+    },
+    {
+      "id": "eagle_pet_plush",
+      "displayName": "Plush Eagle Pet Skin",
+      "tags": [
+        "eagle_pet"
+      ],
+      "variants": [
+        {
+          "id": "day",
+          "displayName": "Day",
+          "frames": [
+            "eyJ0aW1lc3RhbXAiOjE3OTM3ODg1ODk4MDgsInByb2ZpbGVJZCI6IjBiYTI5Njg0NzdlNzQ2NjA4MDNhOGU5YjEyZDA0ZTc2IiwicHJvZmlsZU5hbWUiOiJQbHNQdWxsTWUiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwczovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hNDIyMTc4MjY5YWEyNTE0ZmIyNWVjNGU3MTM4OWVmMDVhYmJiNzNkY2E5NTY2MjllZjAwYWM3NDYwOWQxMWUwIiwibWV0YWRhdGEiOnsibW9kZWwiOiJzbGltIn19fX0"
+          ],
+          "fixedFrameTicks": 200
+        },
+        {
+          "id": "night",
+          "displayName": "Night",
+          "frames": [
+            "eyJ0aW1lc3RhbXAiOjE3OTM3ODg1OTA4ODgsInByb2ZpbGVJZCI6ImVkNTNkZDgxNGY5ZDRhM2NiNGViNjUxZGNiYTc3ZTY2IiwicHJvZmlsZU5hbWUiOiI0MTQxNDE0MWgiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwczovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80NWM5YmRiYTA5MmRkMDY1ZGE4ZjNjYzUzMTA3MzgyNWU4NWQ5NDVlOTQzNDg0NDg3MzI3MzhmMmRhODdjYzZjIiwibWV0YWRhdGEiOnsibW9kZWwiOiJzbGltIn19fX0"
+          ],
+          "fixedFrameTicks": 200
         }
       ]
     },
@@ -17393,6 +17418,143 @@
             "ewogICJ0aW1lc3RhbXAiIDogMTc2MTQ2Mjk1MjAwOSwKICAicHJvZmlsZUlkIiA6ICJiNTQ1ZDcxNDJkZmM0MWVlYjBjMDcwOTkwOTI4NTE0MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJraXdpNDgxMiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jNjk2NTY0ZDI2YmU5ZDM4Njg4ZmVmY2ZjNTk2ODRhOWM2YTJhOTQzZTA2NDE1ODYzMmYwMjc0MzM2ZGRjNmExIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0"
           ],
           "fixedFrameTicks": 2
+        }
+      ]
+    },
+    {
+      "id": "scatha_pet_mecha",
+      "displayName": "Mecha Scatha Skin",
+      "tags": [
+        "scatha_pet"
+      ],
+      "variants": [
+        {
+          "id": "amethyst",
+          "displayName": "Amethyst",
+          "frames": [
+            "eyJ0aW1lc3RhbXAiOjE3OTM3ODg5MzExNTAsInByb2ZpbGVJZCI6IjNiZDViOTFhNzUzMjRhY2ZiZDJhMmE3MzkyMDY4NjViIiwicHJvZmlsZU5hbWUiOiJUb2FzdF9RdWl0ZSIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzM5MDFlOTBhZWMxODAyZTNhNjExZmMwNDMwNmIyNjQxMzdmMmI5OWIyMTQ0ZDFmY2UwYzc0ZTEyODRiNGE4ZjAiLCJtZXRhZGF0YSI6eyJtb2RlbCI6InNsaW0ifX19fQ"
+          ],
+          "fixedFrameTicks": 200
+        },
+        {
+          "id": "azurite",
+          "displayName": "Azurite",
+          "frames": [
+            "eyJ0aW1lc3RhbXAiOjE3OTM3ODg5MjUzMzAsInByb2ZpbGVJZCI6IjU5YmU5NTJjYTI2NzQ5YTg5MzViZDkwZDE2YzI3Yzg4IiwicHJvZmlsZU5hbWUiOiJUaGVQZW5zcGlubmV1ciIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzNkZjA2Zjg4NzIwOGE2YTkzOTdhNTc2NjBmMzUwOWQ1OTU5MmYzNWY4MDU5YWNhMzlmNDg1NzY1OWQ2ZDU0Y2MiLCJtZXRhZGF0YSI6eyJtb2RlbCI6InNsaW0ifX19fQ"
+          ],
+          "fixedFrameTicks": 200
+        },
+        {
+          "id": "bismuth",
+          "displayName": "Bismuth",
+          "frames": [
+            "eyJ0aW1lc3RhbXAiOjE3OTM3ODg5MjU3OTcsInByb2ZpbGVJZCI6IjJiZDJlMDE0YjlhYTRjNGNiZGYzN2ZmNzkzMTY0MTkxIiwicHJvZmlsZU5hbWUiOiJBdXRvU2tpbiIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzFlNDExOWFlMDY2NTIzZjVhZGQ5YzkyZjQ2NjkwMWE3MTY3MzBmNTlkNGY1MjYzNDY4N2FkZmNiNjYxMGUwOCIsIm1ldGFkYXRhIjp7Im1vZGVsIjoic2xpbSJ9fX19"
+          ],
+          "fixedFrameTicks": 200
+        },
+        {
+          "id": "brass",
+          "displayName": "Brass",
+          "frames": [
+            "eyJ0aW1lc3RhbXAiOjE3OTM3ODg5MjkyNDQsInByb2ZpbGVJZCI6IjQyZTgwMDEzYjdlYTRjYWRiYTU0MmFlYmY0NWE2MGQzIiwicHJvZmlsZU5hbWUiOiJUYW1hcmlpaWlpaSIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2ZhNTE1MTQ0ZGZjMWVhYjQwYzkxNjhlYTM0MWFmOTFlZTdmYzdhM2FiMTUwMWVmZTE5YmY5OTU1Nzg5YWQ5YjYiLCJtZXRhZGF0YSI6eyJtb2RlbCI6InNsaW0ifX19fQ"
+          ],
+          "fixedFrameTicks": 200
+        },
+        {
+          "id": "bronze",
+          "displayName": "Bronze",
+          "frames": [
+            "eyJ0aW1lc3RhbXAiOjE3OTM3ODg5Mjc0MzgsInByb2ZpbGVJZCI6IjQ5YjM4NTI0N2ExZjQ1MzdiMGY3YzBlMWYxNWMxNzY0IiwicHJvZmlsZU5hbWUiOiJiY2QyMDMzYzYzZWM0YmY4Iiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cHM6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmM3N2E5NjEwOWM1OWQwMzFiOGFlOGMyMTQ0ZWJmNTJlOTVlNDg0MGViNGExZTc5YmQwOWE3Njg5YjIwZWVhYiIsIm1ldGFkYXRhIjp7Im1vZGVsIjoic2xpbSJ9fX19"
+          ],
+          "fixedFrameTicks": 200
+        },
+        {
+          "id": "copper",
+          "displayName": "Copper",
+          "frames": [
+            "eyJ0aW1lc3RhbXAiOjE3OTM3ODg5Mjc4NjMsInByb2ZpbGVJZCI6IjUzODI3MzU4YjM5NzRmYmI5ODQ5NjkxYzljODc1MDViIiwicHJvZmlsZU5hbWUiOiJPdmVyQmlnYm95MTIzIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cHM6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDMxZTJlMTM1NDMzNDUzOWFhYWNlNDFhOTI0Mzk3MmYwMjVjZGRkNjY1OWI5YjU1YjA3ZWYzNjNjZDJkODA0NyIsIm1ldGFkYXRhIjp7Im1vZGVsIjoic2xpbSJ9fX19"
+          ],
+          "fixedFrameTicks": 200
+        },
+        {
+          "id": "garnet",
+          "displayName": "Garnet",
+          "frames": [
+            "eyJ0aW1lc3RhbXAiOjE3OTM3ODg5Mjk5NzcsInByb2ZpbGVJZCI6ImU3MzgxNjNlNjAzYzQxMWQ5ODgzM2JjOTJlMjhjYjJhIiwicHJvZmlsZU5hbWUiOiJYZW5va3JhdGVzUml0dmEiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwczovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84NmVjZDM4ZmZhYzgwNzJiNzhhMDU4NzEyMTRhZDNhNjczYTNhNjUyNWNkZWI3MmYyNTFlNzFjN2E2YzA0ZjgzIiwibWV0YWRhdGEiOnsibW9kZWwiOiJzbGltIn19fX0"
+          ],
+          "fixedFrameTicks": 200
+        },
+        {
+          "id": "gold",
+          "displayName": "Gold",
+          "frames": [
+            "eyJ0aW1lc3RhbXAiOjE3OTM3ODg5Mjk3NzAsInByb2ZpbGVJZCI6IjE3YzJhNDI2NjIxYzQxNTc5NmRmMjZkZTAwYzdmNGU1IiwicHJvZmlsZU5hbWUiOiJSYWRBcnRodXI4MiIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzhiMzkwMjEwMWI3NWQwZjllYWMyYTMwMThiM2JmMTBiM2JhZmRlODhkYWVkNDFkMjY4YTQyZTI3YzRjN2E0NWIiLCJtZXRhZGF0YSI6eyJtb2RlbCI6InNsaW0ifX19fQ"
+          ],
+          "fixedFrameTicks": 200
+        },
+        {
+          "id": "heated",
+          "displayName": "Heated",
+          "frames": [
+            "eyJ0aW1lc3RhbXAiOjE3OTM3ODg5MzI4NDUsInByb2ZpbGVJZCI6ImQxM2Y4OWNmZGIyZjQ5NTE5YThiODExNTM3YWZlZTZlIiwicHJvZmlsZU5hbWUiOiJlZXpmIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cHM6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWFlODU3NzAyMjMxNmM2MWMxODUwZWNjN2E5ODA3YmFlNjE1ZmQyOGFhMzZkNWYxMTY0ZjNhODMzY2I0NTVjMCIsIm1ldGFkYXRhIjp7Im1vZGVsIjoic2xpbSJ9fX19"
+          ],
+          "fixedFrameTicks": 200
+        },
+        {
+          "id": "iron",
+          "displayName": "Iron",
+          "frames": [
+            "eyJ0aW1lc3RhbXAiOjE3OTM3ODg5MzEyODAsInByb2ZpbGVJZCI6IjY0MTBmNGJmMzA0NTQ5N2Y4MGNkMjg1YjJiYmI1OTk1IiwicHJvZmlsZU5hbWUiOiJNaW5lU2tpbl8xNSIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2FjMzliYWNiYjNlZGNmN2Q3YjViNDdlNzMyNjQwMmU1ZWM5MDBmYmM2MTllZDAwM2E2ZTU0NDhkZDFlNTIwNDIiLCJtZXRhZGF0YSI6eyJtb2RlbCI6InNsaW0ifX19fQ"
+          ],
+          "fixedFrameTicks": 200
+        },
+        {
+          "id": "mithril",
+          "displayName": "Mithril",
+          "frames": [
+            "eyJ0aW1lc3RhbXAiOjE3OTM3ODg5MzIyOTksInByb2ZpbGVJZCI6IjhkZDk5YTMwMTAwMDQ1NGJiZjA0ZTkyOTc0YjNhY2YwIiwicHJvZmlsZU5hbWUiOiJQeXIwdGVjaG5payIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzcyOWMzNWUwMmZjNzRkNjI3YjdjNjAyMDNjMjY3MWQ1ZjRjNTNjOTNhMGJhNDMzN2Y1YTg3ODZmMGViMzNhNDkiLCJtZXRhZGF0YSI6eyJtb2RlbCI6InNsaW0ifX19fQ"
+          ],
+          "fixedFrameTicks": 200
+        },
+        {
+          "id": "patina",
+          "displayName": "Patina",
+          "frames": [
+            "eyJ0aW1lc3RhbXAiOjE3OTM3ODg5MzMwOTksInByb2ZpbGVJZCI6IjlmMmJjYzUzZThjMzQ5NjhhNzljNzQ1MTFhZDY2ZDJjIiwicHJvZmlsZU5hbWUiOiJLYWJveWlvIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cHM6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmRkOGIwZTMwY2QxZjYyZmNiMTNhZDQyNWRjNDI4Mjg4MTE5NGI3NGE4MjBhYzI4Mjg5ZTVjMjkxNzIxZDk2YiIsIm1ldGFkYXRhIjp7Im1vZGVsIjoic2xpbSJ9fX19"
+          ],
+          "fixedFrameTicks": 200
+        },
+        {
+          "id": "rust",
+          "displayName": "Rust",
+          "frames": [
+            "eyJ0aW1lc3RhbXAiOjE3OTM3ODg5MzU2NjcsInByb2ZpbGVJZCI6ImM1ZWY4ZDU0MjA5ZjQ5N2VhZjNjMDU2MDcyNmFhMzA1IiwicHJvZmlsZU5hbWUiOiJNaXNoX0RheCIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2IyZjBhNTRmMjcwMTU4OWRhM2U4NzcwNjBmOWE5ZDZlODI1MmRhMWI2YjVhOWRlNGNhMTczNGU2MDU0M2U4NjQiLCJtZXRhZGF0YSI6eyJtb2RlbCI6InNsaW0ifX19fQ"
+          ],
+          "fixedFrameTicks": 200
+        },
+        {
+          "id": "scatha",
+          "displayName": "Scatha",
+          "frames": [
+            "eyJ0aW1lc3RhbXAiOjE3OTM3ODg5MjgxNjgsInByb2ZpbGVJZCI6IjI4ZDJkMWZkMTI0ZjQ0YzI4ZjFkODA0Njg0YWQ5MDZkIiwicHJvZmlsZU5hbWUiOiJzcGlmZnRvcGlhNyIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzUyMDhiMzYxMDYwMzkxZGJlNDI0Y2JhMTk1MGJmZjk4NTg1OWEzM2RjMTVjNDhiYjk3ZmQzMWRkYzJlNzBiMGEiLCJtZXRhZGF0YSI6eyJtb2RlbCI6InNsaW0ifX19fQ"
+          ],
+          "fixedFrameTicks": 200
+        },
+        {
+          "id": "steel",
+          "displayName": "Steel",
+          "frames": [
+            "eyJ0aW1lc3RhbXAiOjE3OTM3ODg5MzQ2MTcsInByb2ZpbGVJZCI6IjY0ZjQwYWI3MWYzYTQ0ZmJiODQ3YjllYWE5ZmM0NGU1IiwicHJvZmlsZU5hbWUiOiJvZGF2aWRjZXNhciIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzU3MDJlZmYzNjg0NDg2NWIwNGVmYTMxNTVhOWIyNjhlYTM0YjAzYjUyOGI2OTRmMTNhNDNiNDc4YjNhMjZkNjEiLCJtZXRhZGF0YSI6eyJtb2RlbCI6InNsaW0ifX19fQ"
+          ],
+          "fixedFrameTicks": 200
+        },
+        {
+          "id": "titanium",
+          "displayName": "Titanium",
+          "frames": [
+            "eyJ0aW1lc3RhbXAiOjE3OTM3ODg5MzU0NjgsInByb2ZpbGVJZCI6ImQyNTRmNDEwOTI1MTQ1N2ViZTk0Yzk0NDZmYjNlNzdjIiwicHJvZmlsZU5hbWUiOiJUcmFzaEFwcCIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzhmNTJmNjg5NDlhOWY3ODQ2Yjk1ODBhODVjNDg3N2VkMDRjZjU3MWU5NzQ1ZWE4MDg5OGQ2YWY5OGFkZmVkMDkiLCJtZXRhZGF0YSI6eyJtb2RlbCI6InNsaW0ifX19fQ"
+          ],
+          "fixedFrameTicks": 200
         }
       ]
     },
