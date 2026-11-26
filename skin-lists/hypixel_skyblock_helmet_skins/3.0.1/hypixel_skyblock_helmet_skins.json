@@ -1,7 +1,7 @@
 {
   "metadata": {
     "name": "Hypixel SkyBlock Helmet Skins",
-    "version": "2.1.0",
+    "version": "3.0.1",
     "lastUpdated": "2026-11-08",
     "status": "Contains 86 skins with 1116 variants",
     "patchNotes": "Last added: Spectre Wither Goggles skin"
@@ -12120,6 +12120,184 @@
       "fixedFrameTicks": 200
     },
     {
+      "id": "mineral_helmet_slimey",
+      "displayName": "Slimey Helmet Skin",
+      "tags": [
+        "mineral_helmet",
+        "glossy_mineral_helmet"
+      ],
+      "variants": [
+        {
+          "id": "azure",
+          "displayName": "Azure",
+          "frames": [
+            "eyJ0aW1lc3RhbXAiOjE3OTUwNTY1ODUxNDMsInByb2ZpbGVJZCI6IjAyYjVlYzg5OWRhMTQ3NTU5NDliYTAwMjE5YmJjMWViIiwicHJvZmlsZU5hbWUiOiJteWllc2h1cCIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzIzZWNkZjU2MmZkMmRiY2MyMjJkY2ViN2VmNWRlNTA4MDdjMjRhOTUwZTM4ZTU1ZWVmZTMzYWQxNGUyNTk0OTYiLCJtZXRhZGF0YSI6eyJtb2RlbCI6InNsaW0ifX19fQ"
+          ],
+          "fixedFrameTicks": 200
+        },
+        {
+          "id": "beach",
+          "displayName": "Beach",
+          "frames": [
+            "eyJ0aW1lc3RhbXAiOjE3OTUwNTY1ODQ5ODksInByb2ZpbGVJZCI6ImJhOWU1ZjhhNzRjODQzNDliNjdlODYzMGUwNGYxMjZmIiwicHJvZmlsZU5hbWUiOiJhbW9ndXNwYWRvdyIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2NhMTI3NTU3ZTU0YWJkNWVlY2M1OWM2ZmE5MDQzODhmZjYxNjZiZmFlZDQ0NGQyMTM2NzRlMWY1MTA3ZmYyMzQiLCJtZXRhZGF0YSI6eyJtb2RlbCI6InNsaW0ifX19fQ"
+          ],
+          "fixedFrameTicks": 200
+        },
+        {
+          "id": "black_ice_gold",
+          "displayName": "Black Ice Gold",
+          "frames": [
+            "eyJ0aW1lc3RhbXAiOjE3OTUwNTY1ODgyOTMsInByb2ZpbGVJZCI6IjhmNjBlOTQ4ZTU2MDQxZTc5NzI2NTNmM2Q3YzMwMTVjIiwicHJvZmlsZU5hbWUiOiJXZWJOWCIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2UzZDljMzJkNWQzMmU4YjkwYzM4MTEzOTgwNjM3MDc2YTExYTA5ZTAyZWMwZmQ2ODUzNDE1OTRmNTI2Mzk3OWIiLCJtZXRhZGF0YSI6eyJtb2RlbCI6InNsaW0ifX19fQ"
+          ],
+          "fixedFrameTicks": 200
+        },
+        {
+          "id": "black_ice_steel",
+          "displayName": "Black Ice Steel",
+          "frames": [
+            "eyJ0aW1lc3RhbXAiOjE3OTUwNTY1ODgyNjgsInByb2ZpbGVJZCI6IjhjZTMwMDEwMjNkNjQ3OTRhYzY4MjI3MTgzYWM3NjMwIiwicHJvZmlsZU5hbWUiOiJTb25pY1R1bmRlcjciLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwczovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80YWFhN2ZjYjk1ZGI2N2Y1NWYxNWI5NTBiNjRjYTM1NzVkYzFjMDBkYjVkODdhMmIzY2E0NzRmMmFjZjllMWMxIiwibWV0YWRhdGEiOnsibW9kZWwiOiJzbGltIn19fX0"
+          ],
+          "fixedFrameTicks": 200
+        },
+        {
+          "id": "charcoal_gold",
+          "displayName": "Charcoal Gold",
+          "frames": [
+            "eyJ0aW1lc3RhbXAiOjE3OTUwNTY1ODk5ODEsInByb2ZpbGVJZCI6ImQzZWZiMmYxOGMwNTRiZGFhMTQ5NWVlNjRkODFmN2U4IiwicHJvZmlsZU5hbWUiOiJNTEsxNSIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzU3MzVkM2FjZGI1ODA1NWQ1ZTQ2OTFiNWZhNjNmMjU4NTU1ZDU2MTJkZTgzYmNmNjgyMmFhMmIxYmVhZWIyYjEiLCJtZXRhZGF0YSI6eyJtb2RlbCI6InNsaW0ifX19fQ"
+          ],
+          "fixedFrameTicks": 200
+        },
+        {
+          "id": "charcoal_steel",
+          "displayName": "Charcoal Steel",
+          "frames": [
+            "eyJ0aW1lc3RhbXAiOjE3OTUwNTY1ODkwODAsInByb2ZpbGVJZCI6ImE5YjIyZGNlMjRiYzQ2ZmQ5ODlkNjM2YjdjOTNkMWY4IiwicHJvZmlsZU5hbWUiOiJPbWVnYXBsZXgiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwczovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lOGQ2MzdlNzQwN2Q4MjViNjczODQ1YzU0NDNlNjJhOTVmODc5YmJlY2E1MzYyNThkZGE4YWRkNGE0MzI1YTY1IiwibWV0YWRhdGEiOnsibW9kZWwiOiJzbGltIn19fX0"
+          ],
+          "fixedFrameTicks": 200
+        },
+        {
+          "id": "dusk",
+          "displayName": "Dusk",
+          "frames": [
+            "eyJ0aW1lc3RhbXAiOjE3OTUwNTY1Nzg4MTcsInByb2ZpbGVJZCI6ImQ5N2Y5Mjg1Njk0MDQyNmY4NmQ0ZDUwMDNmZTgxNGE3IiwicHJvZmlsZU5hbWUiOiJQcm9TcXVhZFRlYW1ZVCIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2RiODk3NThkOTI0MzVmMmIzYzdkYTczNzJmNGY0ODBjNzdjYTc4MTJiNjc4OTNhYTI5OGJkOWY4NzIxZGZmNjMiLCJtZXRhZGF0YSI6eyJtb2RlbCI6InNsaW0ifX19fQ"
+          ],
+          "fixedFrameTicks": 200
+        },
+        {
+          "id": "glossy",
+          "displayName": "Glossy",
+          "frames": [
+            "eyJ0aW1lc3RhbXAiOjE3OTUwNTY1NzYyMTIsInByb2ZpbGVJZCI6ImY4MmY1NDUwMjNkMDQxMWRiZWVjNThhYjhjYmUxM2M3IiwicHJvZmlsZU5hbWUiOiJSZXNwb25kZW50cyIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzNiODY3N2VmMzk4ZGRlNzEzOTczY2E3YzgzNTk3NTc4MmZmM2RjNTM2NjZiZGM5MWM5MTYxZjhmNjU0N2ZkZWUiLCJtZXRhZGF0YSI6eyJtb2RlbCI6InNsaW0ifX19fQ"
+          ],
+          "fixedFrameTicks": 200
+        },
+        {
+          "id": "glossy_gold",
+          "displayName": "Glossy Gold",
+          "frames": [
+            "eyJ0aW1lc3RhbXAiOjE3OTUwNTY1NzgxMjIsInByb2ZpbGVJZCI6IjU5YmU5NTJjYTI2NzQ5YTg5MzViZDkwZDE2YzI3Yzg4IiwicHJvZmlsZU5hbWUiOiJUaGVQZW5zcGlubmV1ciIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzhmY2IzMjNjNzEzNDVkYWMwM2FiYmY5MTI3OWY1ZTc3ZDFkNDlkYzc3MGM3MzNkY2IzNGJjNjFjZDQzMjJiZDciLCJtZXRhZGF0YSI6eyJtb2RlbCI6InNsaW0ifX19fQ"
+          ],
+          "fixedFrameTicks": 200
+        },
+        {
+          "id": "glossy_steal",
+          "displayName": "Glossy Steal",
+          "frames": [
+            "eyJ0aW1lc3RhbXAiOjE3OTUwNTY1NzcwOTksInByb2ZpbGVJZCI6ImE1YzkyYmU4ODkwZjQ0NTQ5N2Q0YTA5MzZiODU0Nzk5IiwicHJvZmlsZU5hbWUiOiJDbG93ZGVyVGVjaCIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2JlODljYjBhMTJjYWFiYTQyOGIzMmZmNzVlNDQyM2FmNjg0M2UwMzhkMmVmOGY4OGFhNWYxNTYyNTBkOWI1NDIiLCJtZXRhZGF0YSI6eyJtb2RlbCI6InNsaW0ifX19fQ"
+          ],
+          "fixedFrameTicks": 200
+        },
+        {
+          "id": "oasis",
+          "displayName": "Oasis",
+          "frames": [
+            "eyJ0aW1lc3RhbXAiOjE3OTUwNTY1ODQ3NDgsInByb2ZpbGVJZCI6ImQ0ZTA1MWNkZGE0NTQ1NTFiOTVlZGJmN2Q1MzVlMDdlIiwicHJvZmlsZU5hbWUiOiJFbGVtZW50YWxfTWF4Iiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cHM6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2E1NzAzZjkxMjcxNDAxZmE1ZDZmMGI3Mjg3ODFkYWJlOGMwNjc0N2ZhOGQwMTMzNDZkMTFjYmJkYTI2YzJjNSIsIm1ldGFkYXRhIjp7Im1vZGVsIjoic2xpbSJ9fX19"
+          ],
+          "fixedFrameTicks": 200
+        },
+        {
+          "id": "pink",
+          "displayName": "Pink",
+          "frames": [
+            "eyJ0aW1lc3RhbXAiOjE3OTUwNTY1ODExNzMsInByb2ZpbGVJZCI6ImIwZDRiMjhiYzFkNzQ4ODlhZjBlODY2MWNlZTk2YWFiIiwicHJvZmlsZU5hbWUiOiJNaW5lU2tpbl9vcmciLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwczovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hNzRmNjNkZTQwMGFjNWZkOTQyMmY0Mjg4YjljNjlhZmRkNDYwOGQ2OWVmMGRiNGUxZjk4ZTM5OGY2ZWYxN2NkIiwibWV0YWRhdGEiOnsibW9kZWwiOiJzbGltIn19fX0"
+          ],
+          "fixedFrameTicks": 200
+        },
+        {
+          "id": "purple",
+          "displayName": "Purple",
+          "frames": [
+            "eyJ0aW1lc3RhbXAiOjE3OTUwNTY1NzgzMzMsInByb2ZpbGVJZCI6IjAzNDY3YTRjNzlkZTRkYzlhNDg3NTkwZjk2YTA4MWYyIiwicHJvZmlsZU5hbWUiOiJTaGFrYVlhbWkiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwczovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83OGZhZDAzODk4MTUzYzQ0N2I5YjZhMjA5OWZiZWUwMWJkZjM0ZmU3MmEyYjY4ODE1YzM3ZDE2NDcwZmM3MDlkIiwibWV0YWRhdGEiOnsibW9kZWwiOiJzbGltIn19fX0"
+          ],
+          "fixedFrameTicks": 200
+        },
+        {
+          "id": "red",
+          "displayName": "Red",
+          "frames": [
+            "eyJ0aW1lc3RhbXAiOjE3OTUwNTY1ODEzNjAsInByb2ZpbGVJZCI6IjYxNTU1MzI5NjY5YzRkMDliYWI4YmU0M2RhZTBhNGMzIiwicHJvZmlsZU5hbWUiOiJOb3Ryb19DbGllbnQiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwczovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85OWUwODdmMjI1NzIwZWY2ODU3NjBmNzQyNDFhMTVjZWQ4ZDlhMzY0NjViNzNhMDdlMThhZmViOTMxMWFhMTQiLCJtZXRhZGF0YSI6eyJtb2RlbCI6InNsaW0ifX19fQ"
+          ],
+          "fixedFrameTicks": 200
+        },
+        {
+          "id": "sludge",
+          "displayName": "Sludge",
+          "frames": [
+            "eyJ0aW1lc3RhbXAiOjE3OTUwNTY1ODM3NjYsInByb2ZpbGVJZCI6ImRlYWY2MDE0NTU0NjQwZTlhYmY2ZTIxZmJkODJkNTY2IiwicHJvZmlsZU5hbWUiOiJBaWxvcnlLIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cHM6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTU0MmQyYmJiNmI1ZmM3NGU1YTU4OTI0MzA5YTAzOGViODBhYjE5ZDhjMmM1NzVlZTlhZmUwZjg4YzY3MjQ1MyIsIm1ldGFkYXRhIjp7Im1vZGVsIjoic2xpbSJ9fX19"
+          ],
+          "fixedFrameTicks": 200
+        },
+        {
+          "id": "snowy_gold",
+          "displayName": "Snowy Gold",
+          "frames": [
+            "eyJ0aW1lc3RhbXAiOjE3OTUwNTY1ODA0MTQsInByb2ZpbGVJZCI6ImIzZGY3ZWU0NGE2NzQwNTNhZWM5OWI5MWQwZmE2NGY2IiwicHJvZmlsZU5hbWUiOiJHZWxkRXplbCIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2I3ZWY0YmJkN2Y4NWNmNmRjMzYxZDYwMzhkNjdiYjRlMDgwMDBmNjMyODcxN2E3ZTljNjRjYjk5OGJhMmFkOSIsIm1ldGFkYXRhIjp7Im1vZGVsIjoic2xpbSJ9fX19"
+          ],
+          "fixedFrameTicks": 200
+        },
+        {
+          "id": "snowy_steel",
+          "displayName": "Snowy Steel",
+          "frames": [
+            "eyJ0aW1lc3RhbXAiOjE3OTUwNTY1ODAwNTgsInByb2ZpbGVJZCI6IjEwZTNmZjQ0NDg0MDQyMzg5ZjdmY2NkZjkzNjBjMDRlIiwicHJvZmlsZU5hbWUiOiJBSV9BZ2VudCIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzE3MjQ2ODY3ZWVkZTcxM2ZlZDU4Mzc0ODhhYTUwOGY1NDRiOWM2YjE2ZDg2NGQwYjg2ODA2ZWMwNDA4MDVlMTQiLCJtZXRhZGF0YSI6eyJtb2RlbCI6InNsaW0ifX19fQ"
+          ],
+          "fixedFrameTicks": 200
+        },
+        {
+          "id": "spirit",
+          "displayName": "Spirit",
+          "frames": [
+            "eyJ0aW1lc3RhbXAiOjE3OTUwNTY1ODYxMTQsInByb2ZpbGVJZCI6IjRmY2U1YmFiMmYyMjQxN2NhOTVhZWVjMDg5NGExNjc5IiwicHJvZmlsZU5hbWUiOiJWYWF0d2FzdGFibGV0Iiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cHM6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmRlMzAwMDMzOTA5YzA2NTg2MmYxNDA4MTQ2MjRjMjU1NmI3ZThkY2EzMTc0YWQzMTIzNzQ5ZDBkMTY2MWQ1MiIsIm1ldGFkYXRhIjp7Im1vZGVsIjoic2xpbSJ9fX19"
+          ],
+          "fixedFrameTicks": 200
+        },
+        {
+          "id": "sunset",
+          "displayName": "Sunset",
+          "frames": [
+            "eyJ0aW1lc3RhbXAiOjE3OTUwNTgyMjIwNDEsInByb2ZpbGVJZCI6Ijk4MDg2YWQwM2JmNzRhMDk4ZjZhMTIzOTM5YmVmOGU2IiwicHJvZmlsZU5hbWUiOiJwZXN0aWNpZGEiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwczovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iNDZjNzZjMjQwY2U0ODY0NzgxNGE3ZTBmNjNiZjc1N2ViOTM4ZmY1M2VmYjc1YTBhYjAxYTQ3MDVmYTg4ODUiLCJtZXRhZGF0YSI6eyJtb2RlbCI6InNsaW0ifX19fQ"
+          ],
+          "fixedFrameTicks": 200
+        },
+        {
+          "id": "teal",
+          "displayName": "Teal",
+          "frames": [
+            "eyJ0aW1lc3RhbXAiOjE3OTUwNTY1ODcwMTIsInByb2ZpbGVJZCI6IjUwMzJhMDY1ZDkxZDQ1ODJiNmY4MzQwNGUwZjI5MDgyIiwicHJvZmlsZU5hbWUiOiJNYWNCb29rUHJvTTIiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwczovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yMmFkMTYzMzkzNDA5Mjc4OTM0YmM5MjI2MzFmNDAyOWE1NjA2NGViMGRhMTgzZjhmNWFhNThhZjhjZTU4ODE2IiwibWV0YWRhdGEiOnsibW9kZWwiOiJzbGltIn19fX0"
+          ],
+          "fixedFrameTicks": 200
+        },
+        {
+          "id": "yellow",
+          "displayName": "Yellow",
+          "frames": [
+            "eyJ0aW1lc3RhbXAiOjE3OTUwNTY1ODMzOTksInByb2ZpbGVJZCI6IjY3YzU3NTEzNjUzODQxYmNhNDUxOTBjYjJkYWIxYTA5IiwicHJvZmlsZU5hbWUiOiJuaXRlc3RhbGtlcjg3Iiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cHM6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTRjYTdjNWZmYzgyMDgwY2Y0OGYzZTAzNDEwZmUxZTJkN2IyNTUyNWZkYmQyOTcyNDRjZjcyYzc4NDczYzU2OSIsIm1ldGFkYXRhIjp7Im1vZGVsIjoic2xpbSJ9fX19"
+          ],
+          "fixedFrameTicks": 200
+        }
+      ]
+    },
+    {
       "id": "necron_head_knight",
       "displayName": "Knight Skin",
       "tags": [
@@ -14202,6 +14380,183 @@
           "displayName": "Night",
           "frames": [
             "ewogICJ0aW1lc3RhbXAiIDogMTU5NDY1MDY2MDM4OSwKICAicHJvZmlsZUlkIiA6ICI0ZTMwZjUwZTdiYWU0M2YzYWZkMmE3NDUyY2ViZTI5YyIsCiAgInByb2ZpbGVOYW1lIiA6ICJfdG9tYXRvel8iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzFkMTc4ZTBkYThhNGVmMjhhZGU2YjhmNzZiNzM2MTFiZjgzNWUwOGZkOGRhOWQwOTYwZDRiNmRjMTg4NTdmMyIKICAgIH0KICB9Cn0"
+          ],
+          "fixedFrameTicks": 200
+        }
+      ]
+    },
+    {
+      "id": "reaper_tribal_orc",
+      "displayName": "Tribal Orc Reaper Mask Skin",
+      "tags": [
+        "reaper_mask"
+      ],
+      "variants": [
+        {
+          "id": "azure_and_red",
+          "displayName": "Azure and Red",
+          "frames": [
+            "eyJ0aW1lc3RhbXAiOjE3OTU2MTM3Mzg1MDcsInByb2ZpbGVJZCI6ImY5ZDRjMGQ0NjY5ZjRhNWQ4ODUwZmNhM2QzNDRiNjY1IiwicHJvZmlsZU5hbWUiOiJQYWRhbmdHYXMiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwczovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iNTQyNDliMGQ1OTYxY2MxYjJhYmY2YzU4MzNjMzQ5MmRmY2MxNTI2OTM2YWRiN2ExOWJlYjY1YTI3Y2M5NDM1IiwibWV0YWRhdGEiOnsibW9kZWwiOiJzbGltIn19fX0"
+          ],
+          "fixedFrameTicks": 200
+        },
+        {
+          "id": "blue_and_black_ice",
+          "displayName": "Blue and Black Ice",
+          "frames": [
+            "eyJ0aW1lc3RhbXAiOjE3OTU2MTM0NjM3OTUsInByb2ZpbGVJZCI6ImVmYjVlZDZiNWM5NTQ4MGVhYWYyMDJkMjE5ZWY2MGM1IiwicHJvZmlsZU5hbWUiOiJNaWtlSHdhazAwMSIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Y5NDEzNTU4NmM2ZWM0ODc4OGI5NzhmNDJkNDA1ODA3ZDdkZWNjMzA1MTVjMjQ1NzA0ODgyMjZkNTY4YjE1YzUiLCJtZXRhZGF0YSI6eyJtb2RlbCI6InNsaW0ifX19fQ"
+          ],
+          "fixedFrameTicks": 200
+        },
+        {
+          "id": "blue_charcoal",
+          "displayName": "Blue Charcoal",
+          "frames": [
+            "eyJ0aW1lc3RhbXAiOjE3OTU2MTM0NTkzODIsInByb2ZpbGVJZCI6IjQyMmUzN2I2NzhkZTQ5MDZhYWIxZTk0ZjQ3YTk0YzQ5IiwicHJvZmlsZU5hbWUiOiJzcGlmZnRvcGlhOSIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzk0MzFmODM3MWI4MzdiNzkxMDlhNzNiMzlkNjQwZTQzOTA1MzQ4OWQ3MDI4NmMzZDFhMDYwYmMyYjMzOWRiYjgiLCJtZXRhZGF0YSI6eyJtb2RlbCI6InNsaW0ifX19fQ"
+          ],
+          "fixedFrameTicks": 200
+        },
+        {
+          "id": "dusk_blue",
+          "displayName": "Dusk Blue",
+          "frames": [
+            "eyJ0aW1lc3RhbXAiOjE3OTU2MTM3NDI3OTQsInByb2ZpbGVJZCI6IjdkZjg2ZjUxYWNmYjQyNDNhOTM0NDU5MDJkMTNhNzQxIiwicHJvZmlsZU5hbWUiOiJNclJpcHRpZGUiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwczovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85NTg5M2ZiOTYyZTM2NTgzNzM1MzUwYTMxN2IxMDg0YmJiNGExNzJmYjJhNzdhYTE3MGE2M2E4Yjg0ZGQ2MjQxIiwibWV0YWRhdGEiOnsibW9kZWwiOiJzbGltIn19fX0"
+          ],
+          "fixedFrameTicks": 200
+        },
+        {
+          "id": "golden_blue",
+          "displayName": "Golden Blue",
+          "frames": [
+            "eyJ0aW1lc3RhbXAiOjE3OTU2MTM5MDEzMDYsInByb2ZpbGVJZCI6IjZiOWUzZDQwNGJmZjQxMTI4MmJjZWQ5MDNjYzdkMmZmIiwicHJvZmlsZU5hbWUiOiJsdWgyOSIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2M2NTdlMGY2MTgzNWMzOWJhN2JiYjdkMGIwZjkyMjY2OWZjODkyM2Y4MmMzOGZkZWI5YzcxMzlhZDY5MjA2NCIsIm1ldGFkYXRhIjp7Im1vZGVsIjoic2xpbSJ9fX19"
+          ],
+          "fixedFrameTicks": 200
+        },
+        {
+          "id": "golden_red",
+          "displayName": "Golden Red",
+          "frames": [
+            "eyJ0aW1lc3RhbXAiOjE3OTU2MTM5MDIwNDEsInByb2ZpbGVJZCI6IjdkYTJhYjNhOTNjYTQ4ZWU4MzA0OGFmYzNiODBlNjhlIiwicHJvZmlsZU5hbWUiOiJHb2xkYXBmZWwiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwczovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84N2E4NmI1ZDZlMDBlYmVmNjI3ZTIzMWU2YjU3YzgyZGFkNTVhNjM3ZWNlNDVkNWJiMjZmOTI1NDdjNTRiMGE1IiwibWV0YWRhdGEiOnsibW9kZWwiOiJzbGltIn19fX0"
+          ],
+          "fixedFrameTicks": 200
+        },
+        {
+          "id": "green_and_black_ice",
+          "displayName": "Green and Black Ice",
+          "frames": [
+            "eyJ0aW1lc3RhbXAiOjE3OTU2MTM0Njg4OTIsInByb2ZpbGVJZCI6ImU3NWNlOTUxNzU5YjQyZWViZjhmZWNkOGFiMzRiMzYzIiwicHJvZmlsZU5hbWUiOiJfS0tYRF8iLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwczovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81NWVhZDI0ZGU4NjQ3ZjIyNWE3NzQ2ZjU2ZDIyMTcxNWEyMzBiMjNjNjcyZTQ0MGQ2MTFhZWQxNTlhYWM5YzhhIiwibWV0YWRhdGEiOnsibW9kZWwiOiJzbGltIn19fX0"
+          ],
+          "fixedFrameTicks": 200
+        },
+        {
+          "id": "green_and_blue",
+          "displayName": "Green and Blue",
+          "frames": [
+            "eyJ0aW1lc3RhbXAiOjE3OTU2MTM5MzE1NTAsInByb2ZpbGVJZCI6IjM5YTM5MzNlYTgyNTQ4ZTc4NDA3NDVjMGM0ZjcyNTZkIiwicHJvZmlsZU5hbWUiOiJkZW1pbmVjcmFmdGVybG9sIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cHM6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmQ5OWM4YzQxYmJjNTQ5ZjhjMzk0MzNiYmQzNTczOWJkMTllOTJiMTk3MzgyMjNmNjM4MWZlYTY5NzBiOWNlYiIsIm1ldGFkYXRhIjp7Im1vZGVsIjoic2xpbSJ9fX19"
+          ],
+          "fixedFrameTicks": 200
+        },
+        {
+          "id": "green_and_red",
+          "displayName": "Green and Red",
+          "frames": [
+            "eyJ0aW1lc3RhbXAiOjE3OTU2MTM5MzEzNjcsInByb2ZpbGVJZCI6IjNlOGE4ODIzZmVkYjRkZjA4NGZmMTU2ZDdkMzRjMzE3IiwicHJvZmlsZU5hbWUiOiJjaGlwbXVua2llY29va2llIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cHM6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTExMTUxZDc1ZDIxZTkwYTViMTg4NmJjNDlhYzBiOWU3OGIyZjkwZGQyZjYzMGE4YTBiNTExOTIyOTY5OWQzNyIsIm1ldGFkYXRhIjp7Im1vZGVsIjoic2xpbSJ9fX19"
+          ],
+          "fixedFrameTicks": 200
+        },
+        {
+          "id": "green_charcoal",
+          "displayName": "Green Charcoal",
+          "frames": [
+            "eyJ0aW1lc3RhbXAiOjE3OTU2MTM0NTg0MDIsInByb2ZpbGVJZCI6IjdkZjg2ZjUxYWNmYjQyNDNhOTM0NDU5MDJkMTNhNzQxIiwicHJvZmlsZU5hbWUiOiJNclJpcHRpZGUiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwczovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hM2YyZTM5MTY5NDg4ZDQ4YjhjMmFlNjdjOWExYmFmN2Y0MjE4YTE2NDYzMTFhMTRjMzRkNTg0OTQyZjFmMTA1IiwibWV0YWRhdGEiOnsibW9kZWwiOiJzbGltIn19fX0"
+          ],
+          "fixedFrameTicks": 200
+        },
+        {
+          "id": "pink_and_blue",
+          "displayName": "Pink and Blue",
+          "frames": [
+            "eyJ0aW1lc3RhbXAiOjE3OTU2MTM4OTU0OTQsInByb2ZpbGVJZCI6ImQ2OWIxMjZiNWIzNjQxZmVhODU0MDIwMjlmNTUwMjE4IiwicHJvZmlsZU5hbWUiOiJfS290a3JvdF8iLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwczovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iZWQwYzQ2YmE2YjRkOTJhMDczZmFmNTUyNGI3OWNmNGUzYzAyMzNhMzg0YzAxNjYxODVmZjhjNDVlMjY2Y2JhIiwibWV0YWRhdGEiOnsibW9kZWwiOiJzbGltIn19fX0"
+          ],
+          "fixedFrameTicks": 200
+        },
+        {
+          "id": "purple_and_blue",
+          "displayName": "Purple and Blue",
+          "frames": [
+            "eyJ0aW1lc3RhbXAiOjE3OTU2MTM3NDAzMzUsInByb2ZpbGVJZCI6ImJjNGVkZmI1ZjM2YzQ4YTdhYzlmMWEzOWRjMjNmNGY4IiwicHJvZmlsZU5hbWUiOiI4YWNhNjgwYjIyNDYxMzQwIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cHM6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGY3M2U3NmQ2MTBhM2Q5MGEyZGVjNWMxZThkNWE0MWVmNGVjNGUxYjI5ZDY1MDA1NGJhN2Y3ZDc5MjA5ZTlkNSIsIm1ldGFkYXRhIjp7Im1vZGVsIjoic2xpbSJ9fX19"
+          ],
+          "fixedFrameTicks": 200
+        },
+        {
+          "id": "red",
+          "displayName": "Red",
+          "frames": [
+            "eyJ0aW1lc3RhbXAiOjE3OTU2MTM3NDUxNjEsInByb2ZpbGVJZCI6ImYxMDQ3MzFmOWNhNTQ2YjQ5OTM2Mzg1OWRlZjk3Y2M2IiwicHJvZmlsZU5hbWUiOiJ6aWFkODciLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwczovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81NDIwYzU5NGY3MDY4NWQ0YzljNzMwNGU1MTE3NGY3NDgwOWRkNGNkYjEzY2VjZDg2NDA1YzcxOGU0ZTgwNTc4IiwibWV0YWRhdGEiOnsibW9kZWwiOiJzbGltIn19fX0"
+          ],
+          "fixedFrameTicks": 200
+        },
+        {
+          "id": "red_and_black_ice",
+          "displayName": "Red and Black Ice",
+          "frames": [
+            "eyJ0aW1lc3RhbXAiOjE3OTU2MTM0NjUxMTYsInByb2ZpbGVJZCI6ImFlNDIxNTY3ZDM4ODRhZTE5MmE2Y2I1NjhmZmQ0ZmEyIiwicHJvZmlsZU5hbWUiOiJ0aW1vdGh5ZGVvZG9yYW50Iiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cHM6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWIyOWJiMmU4MGFmMmUyODg1YTNmYzU1ODk5YWE5YzUxMjZmNjg3ZjczNzE2NTlmMDlmMjBiYjY5YWI5MGVhZiIsIm1ldGFkYXRhIjp7Im1vZGVsIjoic2xpbSJ9fX19"
+          ],
+          "fixedFrameTicks": 200
+        },
+        {
+          "id": "red_and_blue",
+          "displayName": "Red and Blue",
+          "frames": [
+            "eyJ0aW1lc3RhbXAiOjE3OTU2MTM3NDMyMDcsInByb2ZpbGVJZCI6IjcwNjAwOTQ5ODJkNzQxNzNhM2NmODVmNzU2NDcwYTliIiwicHJvZmlsZU5hbWUiOiJpbmV4YWN0b3N0ZW50YXQiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwczovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83Y2E1MTliNWI3NThlZGNjM2M1ZDIxNjA1MDRkYTcwM2FkODU0ZjU4Y2IzYzYyMjM1MTMxNzczNGY0NzJjNjZhIiwibWV0YWRhdGEiOnsibW9kZWwiOiJzbGltIn19fX0"
+          ],
+          "fixedFrameTicks": 200
+        },
+        {
+          "id": "red_charcoal",
+          "displayName": "Red Charcoal",
+          "frames": [
+            "eyJ0aW1lc3RhbXAiOjE3OTU2MTM0NjA3ODAsInByb2ZpbGVJZCI6IjUyOGVjNWYyYTNmYzQwMDRiNjBjYjA5MDljYmIyN2NiIiwicHJvZmlsZU5hbWUiOiJQdWxpenppIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cHM6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjk2YTdhNWEzMjU3MmI0YTFhZWQ5YjEzNTA4YTk3ZjYzMWVjNjI5ZjM1ZTRiYWE4NzdlNWMyNmJjZGFhOGYwMCIsIm1ldGFkYXRhIjp7Im1vZGVsIjoic2xpbSJ9fX19"
+          ],
+          "fixedFrameTicks": 200
+        },
+        {
+          "id": "snow_blue",
+          "displayName": "Snow Blue",
+          "frames": [
+            "eyJ0aW1lc3RhbXAiOjE3OTU2MTM4OTg3NDYsInByb2ZpbGVJZCI6IjJkNTFmYjRmYmMzZjQyMmM5MzJjMjMwODk0ZTZiYzUyIiwicHJvZmlsZU5hbWUiOiJGR0ZTX3N0dWRpbyIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzUxZWJhYjU2ZmM5YmZmYjk5MDAzMmI3MDg5MjNkOTAwNmVjYTAzNzhmZjc5Y2QzNzUxNDMyMzM1MTY0ZDE5NzIiLCJtZXRhZGF0YSI6eyJtb2RlbCI6InNsaW0ifX19fQ"
+          ],
+          "fixedFrameTicks": 200
+        },
+        {
+          "id": "snow_red",
+          "displayName": "Snow Red",
+          "frames": [
+            "eyJ0aW1lc3RhbXAiOjE3OTU2MTM5MDAyNzYsInByb2ZpbGVJZCI6ImU2NjdlMjc5N2QwYzRjZWNhYTI5ZGU4OWM2Mzg4ZWMwIiwicHJvZmlsZU5hbWUiOiI3X2hwIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cHM6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTJlYzQ5ZmFkZDdlYmE4Yjg0OGIwZDA0MTNjOWE5NGM2YTRlMmRhZTc4ODA3NDA1NjczYWYxNzdmODZhZTQ0NiIsIm1ldGFkYXRhIjp7Im1vZGVsIjoic2xpbSJ9fX19"
+          ],
+          "fixedFrameTicks": 200
+        },
+        {
+          "id": "spirit_red",
+          "displayName": "Spirit Red",
+          "frames": [
+            "eyJ0aW1lc3RhbXAiOjE3OTU2MTM3MzY1NjMsInByb2ZpbGVJZCI6ImFjNjU0NjA5ZWRmMzQ4OGY5MzRlY2EwNGY2OWQ0YjAwIiwicHJvZmlsZU5hbWUiOiJzcGFjZUd1cmxTa3kiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwczovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81NDg4NTRlYmJiY2U4MTIwNTQyOTU0NDMzOGI2NjQ5M2UzN2FhYjU5NzlkMDk3ZmU5OWNiOGQ4MThjNjQ5YmIyIiwibWV0YWRhdGEiOnsibW9kZWwiOiJzbGltIn19fX0"
+          ],
+          "fixedFrameTicks": 200
+        },
+        {
+          "id": "teal_and_green",
+          "displayName": "Teal and Green",
+          "frames": [
+            "eyJ0aW1lc3RhbXAiOjE3OTU2MTM3MzM3MTksInByb2ZpbGVJZCI6IjhlNjAzNjUxZDJlNDQyZWFiOTU4YzhhOGNiYWJhOGY2IiwicHJvZmlsZU5hbWUiOiJTdG9pY19TaWdtYSIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzFlZWY0NzcyMDY1MDQ3MGM4ZWU4ZTA0MGIyYWUzNGRjOWZlYmQ2YzNkMDYwZDM5YTZlOWQwODA4ODE1OWFkNGIiLCJtZXRhZGF0YSI6eyJtb2RlbCI6InNsaW0ifX19fQ"
+          ],
+          "fixedFrameTicks": 200
+        },
+        {
+          "id": "teal_and_red",
+          "displayName": "Teal and Red",
+          "frames": [
+            "eyJ0aW1lc3RhbXAiOjE3OTU2MTM3MzUzOTIsInByb2ZpbGVJZCI6ImVkMDI0NWNjZmNiMDQ0Mzg5NWYwYTNiYWM2YzVhMWNjIiwicHJvZmlsZU5hbWUiOiJzcGlmZnRvcGlhNCIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2IwMmI1YTI5MjFmMDk1NjUxMjllM2MyOTA5NDdmMDBlOWNjNzA5NjA5Yzc5YzM2ZTBlM2FhMTlmOTkxYjc4ZTEiLCJtZXRhZGF0YSI6eyJtb2RlbCI6InNsaW0ifX19fQ"
           ],
           "fixedFrameTicks": 200
         }
